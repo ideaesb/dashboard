@@ -1,0 +1,92 @@
+[09-Jul-2014 07:49:18 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\websites\dashboard\index.php on line 1270
+[09-Jul-2014 07:50:45 UTC] PHP Notice:  Undefined variable: xmlstring in C:\websites\dashboard\index.php on line 63
+[09-Jul-2014 07:50:45 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in C:\websites\dashboard\index.php:63
+Stack trace:
+#0 C:\websites\dashboard\index.php(63): SimpleXMLElement->__construct('')
+#1 {main}
+  thrown in C:\websites\dashboard\index.php on line 63
+[09-Jul-2014 07:52:37 UTC] PHP Notice:  Undefined variable: xmlstring in C:\websites\dashboard\index.php on line 62
+[09-Jul-2014 08:05:46 UTC] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : Entity 'deg' not defined in C:\websites\dashboard\index.php on line 70
+[09-Jul-2014 08:05:46 UTC] PHP Warning:  SimpleXMLElement::__construct():  Average Temperature (30 day)&lt;/title&gt;&lt;blurb&gt;Regional average temperatures (&amp;deg; in C:\websites\dashboard\index.php on line 70
+[09-Jul-2014 08:05:46 UTC] PHP Warning:  SimpleXMLElement::__construct():                                                                                ^ in C:\websites\dashboard\index.php on line 70
+[09-Jul-2014 08:05:46 UTC] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : Entity 'deg' not defined in C:\websites\dashboard\index.php on line 70
+[09-Jul-2014 08:05:46 UTC] PHP Warning:  SimpleXMLElement::__construct(): erature (30 day)&lt;/title&gt;&lt;blurb&gt;Regional departure from normal temperature (&amp;deg; in C:\websites\dashboard\index.php on line 70
+[09-Jul-2014 08:05:46 UTC] PHP Warning:  SimpleXMLElement::__construct():                                                                                ^ in C:\websites\dashboard\index.php on line 70
+[09-Jul-2014 08:05:46 UTC] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : Entity 'deg' not defined in C:\websites\dashboard\index.php on line 70
+[09-Jul-2014 08:05:46 UTC] PHP Warning:  SimpleXMLElement::__construct():  Average Temperature (30 day)&lt;/title&gt;&lt;blurb&gt;Regional average temperatures (&amp;deg; in C:\websites\dashboard\index.php on line 70
+[09-Jul-2014 08:05:46 UTC] PHP Warning:  SimpleXMLElement::__construct():                                                                                ^ in C:\websites\dashboard\index.php on line 70
+[09-Jul-2014 08:05:46 UTC] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : Entity 'deg' not defined in C:\websites\dashboard\index.php on line 70
+[09-Jul-2014 08:05:46 UTC] PHP Warning:  SimpleXMLElement::__construct(): erature (30 day)&lt;/title&gt;&lt;blurb&gt;Regional departure from normal temperature (&amp;deg; in C:\websites\dashboard\index.php on line 70
+[09-Jul-2014 08:05:46 UTC] PHP Warning:  SimpleXMLElement::__construct():                                                                                ^ in C:\websites\dashboard\index.php on line 70
+[09-Jul-2014 08:05:46 UTC] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : Entity 'deg' not defined in C:\websites\dashboard\index.php on line 70
+[09-Jul-2014 08:05:46 UTC] PHP Warning:  SimpleXMLElement::__construct(): tives &lt;/keywords&gt;&lt;title&gt;Growing Degree Days Forecast (Northeast US base 50 &amp;deg; in C:\websites\dashboard\index.php on line 70
+[09-Jul-2014 08:05:46 UTC] PHP Warning:  SimpleXMLElement::__construct():                                                                                ^ in C:\websites\dashboard\index.php on line 70
+[09-Jul-2014 08:05:46 UTC] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : Entity 'deg' not defined in C:\websites\dashboard\index.php on line 70
+[09-Jul-2014 08:05:46 UTC] PHP Warning:  SimpleXMLElement::__construct(): US, daily)&lt;/title&gt;&lt;blurb&gt;Daily average soil temperature (two-inch depth in &amp;deg; in C:\websites\dashboard\index.php on line 70
+[09-Jul-2014 08:05:46 UTC] PHP Warning:  SimpleXMLElement::__construct():                                                                                ^ in C:\websites\dashboard\index.php on line 70
+[09-Jul-2014 08:05:46 UTC] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : Entity 'deg' not defined in C:\websites\dashboard\index.php on line 70
+[09-Jul-2014 08:05:46 UTC] PHP Warning:  SimpleXMLElement::__construct():  heat stress (defined as a nighttime hour when the sum of the temperature (&amp;deg; in C:\websites\dashboard\index.php on line 70
+[09-Jul-2014 08:05:46 UTC] PHP Warning:  SimpleXMLElement::__construct():                                                                                ^ in C:\websites\dashboard\index.php on line 70
+[09-Jul-2014 08:05:46 UTC] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : Entity 'deg' not defined in C:\websites\dashboard\index.php on line 70
+[09-Jul-2014 08:05:46 UTC] PHP Warning:  SimpleXMLElement::__construct():  heat stress (defined as a nighttime hour when the sum of the temperature (&amp;deg; in C:\websites\dashboard\index.php on line 70
+[09-Jul-2014 08:05:46 UTC] PHP Warning:  SimpleXMLElement::__construct():                                                                                ^ in C:\websites\dashboard\index.php on line 70
+[09-Jul-2014 08:05:46 UTC] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : Entity 'deg' not defined in C:\websites\dashboard\index.php on line 70
+[09-Jul-2014 08:05:46 UTC] PHP Warning:  SimpleXMLElement::__construct(): mperature (US)&lt;/title&gt;&lt;blurb&gt;National US map of extreme high temperatures (&amp;deg; in C:\websites\dashboard\index.php on line 70
+[09-Jul-2014 08:05:46 UTC] PHP Warning:  SimpleXMLElement::__construct():                                                                                ^ in C:\websites\dashboard\index.php on line 70
+[09-Jul-2014 08:05:46 UTC] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : Entity 'deg' not defined in C:\websites\dashboard\index.php on line 70
+[09-Jul-2014 08:05:46 UTC] PHP Warning:  SimpleXMLElement::__construct(): emperature (US)&lt;/title&gt;&lt;blurb&gt;National US map of extreme low temperatures (&amp;deg; in C:\websites\dashboard\index.php on line 70
+[09-Jul-2014 08:05:46 UTC] PHP Warning:  SimpleXMLElement::__construct():                                                                                ^ in C:\websites\dashboard\index.php on line 70
+[09-Jul-2014 08:05:46 UTC] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : Entity 'deg' not defined in C:\websites\dashboard\index.php on line 70
+[09-Jul-2014 08:05:46 UTC] PHP Warning:  SimpleXMLElement::__construct():  and Forecasts (Atlantic Provinces)&lt;/title&gt;&lt;blurb&gt;Current air temperature (&amp;deg; in C:\websites\dashboard\index.php on line 70
+[09-Jul-2014 08:05:46 UTC] PHP Warning:  SimpleXMLElement::__construct():                                                                                ^ in C:\websites\dashboard\index.php on line 70
+[09-Jul-2014 08:05:46 UTC] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : Entity 'deg' not defined in C:\websites\dashboard\index.php on line 70
+[09-Jul-2014 08:05:46 UTC] PHP Warning:  SimpleXMLElement::__construct():  (Reynolds Daily Loop)&lt;/title&gt;&lt;blurb&gt;Real-time sea-surface temperature (in &amp;deg; in C:\websites\dashboard\index.php on line 70
+[09-Jul-2014 08:05:46 UTC] PHP Warning:  SimpleXMLElement::__construct():                                                                                ^ in C:\websites\dashboard\index.php on line 70
+[09-Jul-2014 08:05:46 UTC] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : Entity 'deg' not defined in C:\websites\dashboard\index.php on line 70
+[09-Jul-2014 08:05:46 UTC] PHP Warning:  SimpleXMLElement::__construct(): ynolds 7-Day Analysis)&lt;/title&gt;&lt;blurb&gt;Real-time sea-surface temperature (in &amp;deg; in C:\websites\dashboard\index.php on line 70
+[09-Jul-2014 08:05:46 UTC] PHP Warning:  SimpleXMLElement::__construct():                                                                                ^ in C:\websites\dashboard\index.php on line 70
+[09-Jul-2014 08:05:46 UTC] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : Entity 'deg' not defined in C:\websites\dashboard\index.php on line 70
+[09-Jul-2014 08:05:46 UTC] PHP Warning:  SimpleXMLElement::__construct(): re (Anomaly)&lt;/title&gt;&lt;blurb&gt;Real-time sea-surface temperature anomalies (in &amp;deg; in C:\websites\dashboard\index.php on line 70
+[09-Jul-2014 08:05:46 UTC] PHP Warning:  SimpleXMLElement::__construct():                                                                                ^ in C:\websites\dashboard\index.php on line 70
+[09-Jul-2014 08:05:46 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in C:\websites\dashboard\index.php:70
+Stack trace:
+#0 C:\websites\dashboard\index.php(70): SimpleXMLElement->__construct('???<?xml versio...')
+#1 {main}
+  thrown in C:\websites\dashboard\index.php on line 70
+[09-Jul-2014 08:40:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\websites\dashboard\index.php on line 1217
+[12-Jul-2014 06:35:04 UTC] PHP Parse error:  syntax error, unexpected '=' in C:\websites\dashboard\index.php on line 1288
+[12-Jul-2014 07:42:21 UTC] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in C:\websites\dashboard\index.php on line 1250
+[14-Jul-2014 06:58:14 UTC] PHP Warning:  include(dash.php?region=eastern&amp;phenomenon=temperature&amp;timeframe=current): failed to open stream: No such file or directory in C:\websites\dashboard\index.php on line 1319
+[14-Jul-2014 06:58:14 UTC] PHP Warning:  include(): Failed opening 'dash.php?region=eastern&amp;phenomenon=temperature&amp;timeframe=current' for inclusion (include_path='.;C:\php\pear') in C:\websites\dashboard\index.php on line 1319
+[14-Jul-2014 07:22:56 UTC] PHP Warning:  main(): Node no longer exists in C:\websites\dashboard\dash.php on line 10
+[14-Jul-2014 07:22:56 UTC] PHP Warning:  main(): Node no longer exists in C:\websites\dashboard\dash.php on line 10
+[16-Jul-2014 07:56:47 UTC] PHP Warning:  main(): Node no longer exists in C:\websites\dashboard\dash.php on line 10
+[16-Jul-2014 07:58:16 UTC] PHP Warning:  main(): Node no longer exists in C:\websites\dashboard\dash.php on line 10
+[17-Jul-2014 06:17:05 UTC] PHP Warning:  simplexml_load_file(): dash.xml:33: parser error : Opening and ending tag mismatch: title line 29 and thumbnail in C:\websites\dashboard\index.php on line 55
+[17-Jul-2014 06:17:05 UTC] PHP Warning:  simplexml_load_file(): &lt;/thumbnail&gt; in C:\websites\dashboard\index.php on line 55
+[17-Jul-2014 06:17:05 UTC] PHP Warning:  simplexml_load_file():             ^ in C:\websites\dashboard\index.php on line 55
+[17-Jul-2014 06:17:05 UTC] PHP Warning:  simplexml_load_file(): dash.xml:35: parser error : Opening and ending tag mismatch: thumbnail line 27 and current in C:\websites\dashboard\index.php on line 55
+[17-Jul-2014 06:17:05 UTC] PHP Warning:  simplexml_load_file():   &lt;/current&gt; in C:\websites\dashboard\index.php on line 55
+[17-Jul-2014 06:17:05 UTC] PHP Warning:  simplexml_load_file():             ^ in C:\websites\dashboard\index.php on line 55
+[17-Jul-2014 06:17:05 UTC] PHP Warning:  simplexml_load_file(): dash.xml:169: parser error : Opening and ending tag mismatch: current line 9 and temperature in C:\websites\dashboard\index.php on line 55
+[17-Jul-2014 06:17:05 UTC] PHP Warning:  simplexml_load_file():  &lt;/temperature&gt; in C:\websites\dashboard\index.php on line 55
+[17-Jul-2014 06:17:05 UTC] PHP Warning:  simplexml_load_file():                ^ in C:\websites\dashboard\index.php on line 55
+[17-Jul-2014 06:17:05 UTC] PHP Warning:  simplexml_load_file(): dash.xml:319: parser error : Opening and ending tag mismatch: temperature line 8 and eastern in C:\websites\dashboard\index.php on line 55
+[17-Jul-2014 06:17:05 UTC] PHP Warning:  simplexml_load_file(): &lt;/eastern&gt; in C:\websites\dashboard\index.php on line 55
+[17-Jul-2014 06:17:05 UTC] PHP Warning:  simplexml_load_file():           ^ in C:\websites\dashboard\index.php on line 55
+[17-Jul-2014 06:17:05 UTC] PHP Warning:  simplexml_load_file(): dash.xml:695: parser error : Opening and ending tag mismatch: eastern line 7 and thumbnails in C:\websites\dashboard\index.php on line 55
+[17-Jul-2014 06:17:05 UTC] PHP Warning:  simplexml_load_file(): &lt;/thumbnails&gt; in C:\websites\dashboard\index.php on line 55
+[17-Jul-2014 06:17:05 UTC] PHP Warning:  simplexml_load_file():              ^ in C:\websites\dashboard\index.php on line 55
+[17-Jul-2014 06:17:05 UTC] PHP Warning:  simplexml_load_file(): dash.xml:696: parser error : Premature end of data in tag thumbnails line 6 in C:\websites\dashboard\index.php on line 55
+[17-Jul-2014 06:17:05 UTC] PHP Warning:  simplexml_load_file():  in C:\websites\dashboard\index.php on line 55
+[17-Jul-2014 06:17:05 UTC] PHP Warning:  simplexml_load_file(): ^ in C:\websites\dashboard\index.php on line 55
+[17-Jul-2014 06:17:05 UTC] PHP Notice:  Trying to get property of non-object in C:\websites\dashboard\dash.php on line 2
+[17-Jul-2014 06:17:05 UTC] PHP Notice:  Trying to get property of non-object in C:\websites\dashboard\dash.php on line 2
+[17-Jul-2014 06:17:05 UTC] PHP Fatal error:  Call to a member function children() on a non-object in C:\websites\dashboard\dash.php on line 2
+[18-Jul-2014 07:44:29 UTC] PHP Warning:  simplexml_load_file(): dash.xml:561: parser error : EntityRef: expecting ';' in C:\websites\dashboard\index.php on line 55
+[18-Jul-2014 07:44:29 UTC] PHP Warning:  simplexml_load_file(): p://www.wateroffice.ec.gc.ca/google_map/google_map_e.html?search_by=w&amp;wsc_region in C:\websites\dashboard\index.php on line 55
+[18-Jul-2014 07:44:29 UTC] PHP Warning:  simplexml_load_file():                                                                                ^ in C:\websites\dashboard\index.php on line 55
+[18-Jul-2014 07:44:29 UTC] PHP Notice:  Trying to get property of non-object in C:\websites\dashboard\dash.php on line 2
+[18-Jul-2014 07:44:29 UTC] PHP Notice:  Trying to get property of non-object in C:\websites\dashboard\dash.php on line 2
+[18-Jul-2014 07:44:29 UTC] PHP Fatal error:  Call to a member function children() on a non-object in C:\websites\dashboard\dash.php on line 2
+[19-Jul-2014 05:20:17 UTC] PHP Parse error:  syntax error, unexpected '$links' (T_VARIABLE), expecting '(' in C:\websites\dashboard\dash.php on line 58

@@ -1,0 +1,27 @@
+html, body
+{
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+body 
+{ 
+  background-color: #fff; 
+  /* background:#263f78 url(../images/background.jpg); */
+}
+
+#main 
+{
+  width: 80%;
+  max-width: 904px;
+  background-color:#fff;
+  border: solid black medium; /* remove if you don't want a border */
+  margin: 2em auto;
+  padding: 1em;
+  text-align:center;
+} 
+.floatRightClear { 
+    float: right; 
+    clear: right; 
+    margin: 4px; 
+}

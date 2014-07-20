@@ -1,0 +1,822 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE thumbnails [
+<!ENTITY deg "&#176;">
+]>
+
+<thumbnails>
+<eastern>
+ <temperature>
+   <current>
+
+<thumbnail>
+ <keywords> Eastern Temperature &amp; Precipitation: Recent/Current Conditions</keywords>
+ <title>Northeast Regional Synopsis - Temperature</title>
+ <blurb>Recent trends in regional air temperature</blurb>
+ <source>Northeast Regional Climate Center</source> <link>http://www.nrcc.cornell.edu/</link> 
+ <thumb>downloads/nrcc_temperature_departure.png</thumb> 
+</thumbnail>
+
+<thumbnail>
+ <keywords> Eastern Temperature &amp; Precipitation: Recent/Current Conditions</keywords>
+ <title>Northeast Regional Synopsis - Precipitation</title>
+ <blurb>Recent trends in precipitation as percent of Normal</blurb>
+ <source>Northeast Regional Climate Center</source> <link>http://www.nrcc.cornell.edu/</link> 
+ <thumb>downloads/nrcc_precip_percent_of_normal.png</thumb> 
+</thumbnail>
+
+<thumbnail>
+ <keywords> Eastern Temperature &amp; Precipitation: Recent/Current Conditions</keywords>
+ <title>Gulf of Maine Council on the Marine Environment - EcoSystem Indicator Partnership</title>
+ <blurb>ESIP indicator reporting tool tracks precipitation and air temperature at sites around the Gulf of Maine</blurb>
+ <source>Gulf of Maine Council</source> <link>http://www.gulfofmaine.org/2/esip-homepage/</link> 
+ <thumb>images/esip.jpg</thumb> <thumblink>http://www.gulfofmaine.org/esip/reporting</thumblink>
+</thumbnail>
+
+<thumbnail>
+ <keywords> Eastern Temperature &amp; Precipitation: Recent/Current Conditions</keywords>
+ <title>Precipitation (Northeast - Daily Observation)</title>
+ <blurb>Continental US: Current 1-Day Observed Precipitation</blurb>
+ <source>NWS Advanced Hydological Prediction Service</source> <link>http://water.weather.gov/precip/index.php</link> 
+ <thumb>downloads/precip5.png</thumb>
+</thumbnail>
+
+  </current>
+  <forecast>
+
+<thumbnail><keywords> Eastern Temperature &amp; Precipitation: Forecasts/Projections/Time Series</keywords>
+<title>Northeast US Climate Summary: Average Temperature (30 day)</title>
+<blurb>Regional average temperatures (&deg;F) over the previous 30 days</blurb>
+ <source>High Plains Regional Climate Center</source>
+<link>http://www.hprcc.unl.edu/maps/current/index.php?action=update_region&amp;region=NRCC</link>
+ <thumb>http://www.hprcc.unl.edu/products/maps/acis/nrcc/30dTDataNRCC.png</thumb> 
+</thumbnail>
+
+<thumbnail><keywords> Eastern Temperature &amp; Precipitation: Forecasts/Projections/Time Series</keywords>
+<title>Northeast US Climate Summary: Departure from Normal Temperature (30 day)</title>
+<blurb>Regional departure from normal temperature (&deg;F) over the previous 30 days</blurb>
+ <source>High Plains Regional Climate Center</source> <link>http://www.hprcc.unl.edu/maps/current/index.php?action=update_product&amp;product=TDept</link> 
+ <thumb>http://www.hprcc.unl.edu/products/maps/acis/nrcc/30dTDeptNRCC.png</thumb></thumbnail> 
+
+<thumbnail><keywords> Eastern Temperature &amp; Precipitation: Forecasts/Projections/Time Series</keywords>
+<title>Southeast US Climate Summary: Average Temperature (30 day)</title>
+<blurb>Regional average temperatures (&deg;F) over the previous 30 days</blurb>
+ <source>High Plains Regional Climate Center</source> <link>http://www.hprcc.unl.edu/maps/current/index.php?action=update_region&amp;region=SERCC</link> 
+ <thumb>http://www.hprcc.unl.edu/products/maps/acis/sercc/30dTDataSERCC.png</thumb></thumbnail> 
+
+<thumbnail><keywords> Eastern Temperature &amp; Precipitation: Forecasts/Projections/Time Series</keywords>
+<title>Southeast US Climate Summary: Departure from Normal Temperature (30 day)</title>
+<blurb>Regional departure from normal temperature (&deg;F) over the previous 30 days</blurb>
+ <source>High Plains Regional Climate Center</source> <link>http://www.hprcc.unl.edu/maps/current/index.php?action=update_product&amp;product=TDept</link> 
+ <thumb>http://www.hprcc.unl.edu/products/maps/acis/sercc/30dTDeptSERCC.png</thumb></thumbnail> 
+
+<thumbnail><keywords> Eastern Temperature &amp; Precipitation: Forecasts/Projections/Time Series</keywords>
+<title>Northeast US Climate Summary: Total Precipitation (30 day)</title>
+<blurb>Regional total precipitation (inches) over the previous 30 days</blurb>
+ <source>High Plains Regional Climate Center</source>
+<link>http://www.hprcc.unl.edu/maps/current/index.php?action=update_product&amp;product=PData</link> 
+ <thumb>http://www.hprcc.unl.edu/products/maps/acis/nrcc/30dPDataNRCC.png</thumb></thumbnail> 
+
+<thumbnail><keywords> Eastern Temperature &amp; Precipitation: Forecasts/Projections/Time Series</keywords>
+<title>Northeast US Climate Summary: Departure from Normal Precipitation (30 day)</title>
+<blurb>Regional departure from normal precipitation (inches) over the previous 30 days</blurb>
+ <source>High Plains Regional Climate Center</source> <link>http://www.hprcc.unl.edu/maps/current/index.php?action=update_product&amp;product=PDept</link> 
+ <thumb>http://www.hprcc.unl.edu/products/maps/acis/nrcc/30dPDeptNRCC.png</thumb></thumbnail> 
+
+<thumbnail><keywords> Eastern Temperature &amp; Precipitation: Forecasts/Projections/Time Series</keywords>
+<title>Northeast US Climate Summary: Percent of Normal Precipitation (30 day)</title>
+<blurb>Regional percent of normal precipitation (inches) over the previous 30 days</blurb>
+ <source>High Plains Regional Climate Center</source>
+<link>http://www.hprcc.unl.edu/maps/current/index.php?action=update_product&amp;product=PNorm</link> 
+ <thumb>http://www.hprcc.unl.edu/products/maps/acis/nrcc/30dPNormNRCC.png</thumb></thumbnail> 
+
+<thumbnail><keywords> Eastern Temperature &amp; Precipitation: Forecasts/Projections/Time Series</keywords>
+<title>Northeast US Climate Summary: Standardized Precipitation Index (30 day)</title>
+<blurb>This regional SPI helps monitor drought (depicting the severity of precipitation anomalies) offering a probability index based only on precipitation (inches) over the previous 30 days</blurb>
+ <source>High Plains Regional Climate Center</source>
+<link>http://www.hprcc.unl.edu/maps/current/index.php?action=update_product&amp;product=SPIData</link> 
+ <thumb>http://www.hprcc.unl.edu/products/maps/acis/nrcc/30dSPIDataNRCC.png</thumb></thumbnail> 
+
+<thumbnail><keywords> Eastern Temperature &amp; Precipitation: Forecasts/Projections/Time Series</keywords>
+<title>Southeast US Climate Summary: Total Precipitation (30 day)</title>
+<blurb>Regional total precipitation (inches) over the previous 30 days</blurb>
+  <source>High Plains Regional Climate Center</source>
+<link>http://www.hprcc.unl.edu/maps/current/index.php?action=update_product&amp;product=PData</link> 
+ <thumb>http://www.hprcc.unl.edu/products/maps/acis/sercc/30dPDataSERCC.png</thumb></thumbnail> 
+
+<thumbnail><keywords> Eastern Temperature &amp; Precipitation: Forecasts/Projections/Time Series</keywords>
+<title>Southeast US Climate Summary: Departure from Normal Precipitation (30 day)</title>
+<blurb>Regional departure from normal precipitation (inches) over the previous 30 days</blurb>
+ <source>High Plains Regional Climate Center</source>
+<link>http://www.hprcc.unl.edu/maps/current/index.php?action=update_product&amp;product=PDept</link> 
+ <thumb>http://www.hprcc.unl.edu/products/maps/acis/sercc/30dPDeptSERCC.png</thumb></thumbnail> 
+
+<thumbnail><keywords> Eastern Temperature &amp; Precipitation: Forecasts/Projections/Time Series</keywords>
+<title>Southeast US Climate Summary: Percent of Normal Precipitation (30 day)</title>
+<blurb>Regional percent of normal precipitation (inches) over the previous 30 days</blurb>
+ <source>High Plains Regional Climate Center</source>
+<link>http://www.hprcc.unl.edu/maps/current/index.php?action=update_product&amp;product=PNorm</link> 
+ <thumb>http://www.hprcc.unl.edu/products/maps/acis/sercc/30dPNormSERCC.png</thumb></thumbnail> 
+
+<thumbnail><keywords> Eastern Temperature &amp; Precipitation: Forecasts/Projections/Time Series</keywords>
+<title>Southeast US Climate Summary: Standardized Precipitation Index (30 day)</title>
+<blurb>This regional SPI helps monitor drought (depicting the severity of precipitation anomalies) offering a probability index based only on precipitation (inches) over the previous 30 days</blurb>
+ <source>High Plains Regional Climate Center</source>
+<link>http://www.hprcc.unl.edu/maps/current/index.php?action=update_product&amp;product=SPIData</link> 
+ <thumb>http://www.hprcc.unl.edu/products/maps/acis/sercc/30dSPIDataSERCC.png</thumb> </thumbnail>
+
+<thumbnail><keywords> Eastern Temperature &amp; Precipitation: Forecasts/Projections/Time Series</keywords>
+<title>Extreme Precipitation (New York &amp; New England</title>
+<blurb> An interactive map links to data sets with extreme precipitation estimates (inches) by location ranging from one day to 500 years </blurb>
+ <source> Northeast Regional Climate Center/Natural Resources Conservation Service </source>
+<link> http://precip.eas.cornell.edu/ </link> 
+ <thumb>images/extreme.jpg</thumb><thumblink>http://precip.eas.cornell.edu/</thumblink> </thumbnail>
+ 
+  </forecast>
+  <derivative>
+
+
+<thumbnail><keywords> Eastern Temperature &amp; Precipitation: Derivatives </keywords>
+<title>Growing Degree Days Forecast (Northeast US base 50 &deg;F)</title>
+<blurb>Maps depicting growing degree days (GDD) for the past month and season to date; GDD forecast for the coming week; and GDD comparisons with previous season and long-term average.</blurb> 
+ <source>Cornell University Atmospheric Science &amp; Turf Team</source> <link>http://www.nrcc.cornell.edu/grass/degreedays/degreedays.html</link>
+ <thumb>http://www.nrcc.cornell.edu/dyn_images/grass/wgdd.png</thumb></thumbnail>
+
+<thumbnail><keywords> Eastern Temperature &amp; Precipitation: Derivatives </keywords>
+<title>Soil Temperature (Northeast US, daily)</title>
+<blurb>Daily average soil temperature (two-inch depth in &deg;F)</blurb>
+ <source>Cornell University Atmospheric Science &amp; Turf Team</source> <link>http://www.nrcc.cornell.edu/grass/degreedays/degreedays.html#</link> 
+ <thumb>http://www.nrcc.cornell.edu/dyn_images/grass/soilTemp.png</thumb></thumbnail> 
+
+<thumbnail><keywords> Eastern Temperature &amp; Precipitation: Derivatives </keywords>
+<title>Heat Stress Index (US Northeast, past week)</title>
+<blurb>Map records no, moderate and high heat stress (defined as a nighttime hour when the sum of the temperature (&deg;F) and relative humidity (%) exceeds 150). Red dots indicate eight or more heat stress hours.</blurb>
+ <source>Cornell University Atmospheric Science &amp; Turf Team</source> <link>http://www.nrcc.cornell.edu/grass/heatstress/heatstress.html</link> 
+ <thumb>http://www.nrcc.cornell.edu/dyn_images/grass/hstress.png</thumb></thumbnail> 
+
+<thumbnail><keywords> Eastern Temperature &amp; Precipitation: Derivatives </keywords>
+<title>Heat Stress Forecast (Northeast US, 1-week)</title>
+<blurb>One-week forecast for risks of high heat stress (defined as a nighttime hour when the sum of the temperature (&deg;F) and relative humidity (%) exceeds 150). Red dots indicate at least two high heat stress days or consistent moderate risk.</blurb> 
+ <source>Cornell University Atmospheric Science &amp; Turf Team</source> <link>http://www.nrcc.cornell.edu/grass/heatstress/heatstress.html#</link>  
+ <thumb>http://www.nrcc.cornell.edu/dyn_images/grass/hs_fcst.png</thumb></thumbnail> 
+
+<thumbnail><keywords> Eastern Temperature &amp; Precipitation: Derivatives </keywords>
+<title>Moisture Deficit (US northeast, preceding week)</title>
+<blurb>Regional moisture deficit (rainfall minus evaporation) over the past week</blurb> 
+ <source>Northeast Region Climate Center/Cornell University Entomology</source> <link>http://www.nrcc.cornell.edu/mosquito/moisture/deficit_week.html</link> 
+ <thumb>http://www.nrcc.cornell.edu/dyn_images/grass/wdfct.png</thumb></thumbnail> 
+
+<thumbnail><keywords> Eastern Temperature &amp; Precipitation: Derivatives </keywords>
+<title>Moisture Deficit (US northeast, season to date)</title>
+<blurb>Regional moisture deficit (rainfall minus evaporation) over the mosquito season to date</blurb>
+ <source>Northeast Region Climate Center/Cornell University Entomology</source>
+<link>http://www.nrcc.cornell.edu/mosquito/moisture/deficit_std.html</link> 
+ <thumb>http://www.nrcc.cornell.edu/dyn_images/grass/sdfct.png</thumb></thumbnail> 
+ 
+ 
+<thumbnail><keywords> Eastern Temperature &amp; Precipitation: Derivatives </keywords>
+<title>Fisheries-related data (Northeast US)</title>
+<blurb>Measurements from the Northwest Atlantic of bottom temperature, salinity, and current velocity gathered with help from nearly 100 regional lobstermen</blurb>
+ <source>Environmental Monitors on Lobster Traps (eMOLT)</source>
+<link>http://www.emolt.org/</link> 
+ <thumb>images/emolt.jpg</thumb><thumblink>http://www.nefsc.noaa.gov/epd/ocean/MainPage/emolt.html</thumblink></thumbnail> 
+ 
+ <thumbnail>
+  <links>
+    <link>
+	  <href>http://www.nefsc.noaa.gov/epd/ocean/MainPage/emolt.html</href>
+	  <display>surface count drifter study</display>
+	</link>
+    <link>
+	  <href>http://www.nefsc.noaa.gov/epd/ocean/MainPage/emolt.html</href>
+	  <display>bottom current tilt-meter study</display>
+	</link>
+    <link>
+	  <href>http://www.nefsc.noaa.gov/epd/ocean/MainPage/emolt.html</href>
+	  <display>temperature study</display>
+	</link>
+    <link>
+	  <href>https://www.flickr.com/photos/emoltlobcam</href>
+	  <display>cameras on traps</display>
+	</link>
+  </links>
+ </thumbnail>
+ 
+   </derivative>
+
+ </temperature>
+
+ <drought>
+  <current>
+
+
+
+<thumbnail><keywords> Eastern Drought &amp; Stream Flow—Recent/Current </keywords>
+<title>Northeast US Drought Monitor</title>
+<blurb>Frequently updated map of regional drought condition intensity, with percentage area statistics going back one year</blurb>
+ <source>Northeast Regional Climate Center</source> <link>http://www.nrcc.cornell.edu/page_drought.html</link>
+ <thumb>http://droughtmonitor.unl.edu/data/pngs/current/current_northeast_trd.png</thumb></thumbnail> 
+
+<thumbnail><keywords> Eastern Drought &amp; Stream Flow—Recent/Current </keywords>
+<title>Middle Atlantic Precipitation Departure Maps (US)</title>
+<blurb>Regional departure from normal precipitation (inches) for year to date, month to date or last 7- to 365 days.</blurb>
+ <source>NOAA NWS Middle Atlantic River Forecast Center</source> <link>http://www.erh.noaa.gov/marfc/Precipitation/Departures/ </link>
+ <thumb>http://www.erh.noaa.gov/marfc/Precipitation/Departures/dep_south.yearly.png</thumb> </thumbnail>
+
+<thumbnail><keywords> Eastern Drought &amp; Stream Flow—Recent/Current </keywords>
+<title>Accumulated Ohio Precipitation, Total Precipitation &amp; Departure (US)</title>
+<blurb>24-hr through 96-hr Accumulated Precipitation and 7-day through 90-day total precipitation and departure</blurb>
+ <source>NOAA NWS Ohio River Forecast Center</source> <link>http://www.erh.noaa.gov/ohrfc/Observed.html#7-day</link>
+ <thumb>http://www.erh.noaa.gov/ohrfc/HAS/images/latest7daydepart.jpeg</thumb></thumbnail> 
+ </current>
+ <derivative>
+
+<thumbnail><keywords> Eastern Drought &amp; Stream Flow— Derivative Products </keywords>
+<title>Northeast US Rivers—Month-to-Date up to Year-to-Date Precipitation</title>
+<blurb>Recent precipitation trends affecting regional water supplies</blurb>
+ <source>NOAA NWS Northeast River Forecast Center</source> <link>http://www.erh.noaa.gov/nerfc/watersupply.shtml </link>
+ <thumb>http://www.erh.noaa.gov/nerfc/watersupply/pgmtd.png</thumb></thumbnail> 
+
+<thumbnail><keywords> Eastern Drought &amp; Stream Flow— Derivative Products </keywords>
+<title>Northeast US Rivers—Month-to-Date up to Year-to-Date Departures from Normal</title>
+<blurb>Recent precipitation trends compared to the 30-year “normal” for the same period</blurb>
+ <source>NOAA NWS Northeast River Forecast Center</source> <link>http://www.erh.noaa.gov/nerfc/watersupply.shtml </link>
+ <thumb>http://www.erh.noaa.gov/nerfc/watersupply/dgmtd.png</thumb></thumbnail> 
+ </derivative>
+
+</drought>
+
+<winter>
+
+<thumbnail><keywords> Eastern Winter Weather </keywords>
+<title>Current Snowfall (Northeast US)</title>
+<blurb>Depicts daily snowfall in inches</blurb>
+ <source>NOAA NWS Northeast River Forecast Center</source> <link>http://www.erh.noaa.gov/nerfc/graphics/snowmaps/html/daily_snowfall.html </link>
+ <thumb>http://www.erh.noaa.gov/nerfc/graphics/snowmaps/sf1_today.jpg</thumb></thumbnail> 
+
+<thumbnail><keywords> Eastern Winter Weather </keywords>
+<title>Current Snow Depth (Northeast US)</title>
+<blurb>Current regional snow depth, updated daily</blurb>
+ <source>NOAA NWS Northeast River Forecast Center</source> <link>http://www.erh.noaa.gov/nerfc/graphics/snowmaps/html/snow_depth.html</link>
+ <thumb>http://www.erh.noaa.gov/nerfc/graphics/snowmaps/sd1_today.jpg</thumb></thumbnail> 
+
+<thumbnail><keywords> Eastern Winter Weather </keywords>
+<title>Modelled Snow Depth (Northeast US)</title>
+<blurb>Interactive snow information with depth of shallow snow (up to 24 inches)</blurb>
+ <source>NOAA National Operational Hydrologic Remote Sensing Center</source> <link>http://www.nohrsc.noaa.gov/interactive/html/map.html</link>
+<thumb>images/snow.jpg</thumb><thumblink>http://www.nohrsc.noaa.gov/interactive/html/map.html</thumblink></thumbnail> 
+
+<thumbnail><keywords> Eastern Winter Weather </keywords>
+<title>Northeast Regional Seasonal Snowfall </title>
+<blurb>Customizable regional map of snowfall totals</blurb> 
+ <source>Northeast Regional Climate Center</source> <link>http://www.nrcc.cornell.edu/page_northeast.html</link>
+ <thumb>http://www.nrcc.cornell.edu/seasonal_snow/ssnow1314martot.png</thumb></thumbnail>  
+
+<thumbnail><keywords> Eastern Winter Weather </keywords>
+<title>Snowfall Index (US Regional)</title>
+<blurb>Interactive map providing regional snowfall data</blurb>
+ <source>NOAA, National Climatic Data Center</source> <link>http://gis.ncdc.noaa.gov/maps/snowfall.map?view=rsi</link> 
+ <thumb>images/snowfall.jpg</thumb><thumblink>http://gis.ncdc.noaa.gov/maps/snowfall.map?view=rsi</thumblink></thumbnail>
+
+<thumbnail><keywords> Eastern Winter Weather </keywords>
+<title>Snow Water Equivalent Map (Northeast US)</title>
+<blurb>Interactive map with modeled regional snow accumulation in inches of water equivalent</blurb>
+ <source>NOAA National Operational Hydrologic Remote Sensing Center</source> <link>http://www.nohrsc.noaa.gov/interactive/html/map.html</link>
+<thumb>images/snow.jpg</thumb><thumblink>http://www.nohrsc.noaa.gov/interactive/html/map.html</thumblink></thumbnail> 
+
+</winter>
+
+<ocean>
+
+<thumbnail><keywords> Eastern Ocean Conditions: Sea-surface Temperatures </keywords>
+<title>Gulf of Maine Sea-surface Temperature </title>
+<blurb>Past daily satellite images of Gulf of Maine sea-surface temperature</blurb> 
+ <source>Northeastern Regional Association of Coastal and Ocean Observing Systems</source> <link>http://neracoos.org/datatools/realtime/SST</link>  
+ <thumb>images/sst.gif</thumb><thumblink>http://neracoos.org/datatools/realtime/SST</thumblink></thumbnail>
+
+<thumbnail><keywords> Eastern Ocean Conditions: Sea-surface Temperatures </keywords>
+<title>Sea-surface Temperature and Water Currents (Northeast US)</title>
+<blurb>Web-mapping portal with real-time coastal observations with air and water temperatures, currents, weather radar and more</blurb>
+ <source>NOAA</source><link>http://nowcoast.noaa.gov/</link>
+ <thumb>images/nowcast.jpg</thumb><thumblink>http://nowcoast.noaa.gov/</thumblink></thumbnail>
+
+<thumbnail><keywords> Eastern Ocean Conditions: Sea-surface Temperatures </keywords>
+<title>Regional Ocean Buoy Data</title>
+<blurb>Real-time data (wind speed/direction, wave height/period, air/water temperature, air pressure, visibility, salinity from buoys between New York and Nova Scotia</blurb>
+ <source>Northeastern Regional Association of Coastal and Ocean Observing Systems</source> <link>http://neracoos.org/realtime_map</link>
+ <thumb>images/neracross.jpg</thumb><thumblink>http://neracoos.org/realtime_map</thumblink></thumbnail>
+
+
+<thumbnail><keywords> Eastern Ocean Conditions: Sea-surface Temperatures </keywords>
+<title> Northeast and Coastal Ocean Forecast System </title>
+<blurb> Model viewer with wind, precipitation, air temperature, relative humidity, sea level pressure
+ Northeastern Regional Association of Coastal and Ocean Observing Systems </blurb>
+ <source>Northeastern Regional Association of Coastal and Ocean Observing Systems</source> 
+<link>http://www.neracoos.org/datatools/forecast/oceanforecasts</link>
+ <thumb>images/oceanforecasts.jpg</thumb><thumblink>http://www.neracoos.org/datatools/forecast/oceanforecasts</thumblink></thumbnail>
+
+
+<thumbnail><keywords> Eastern Ocean Conditions: Waves, Currents and Tides </keywords>
+<title>Northeastern US Storm Surge/Tidal Predications &amp; Observations Maps and Data Sets</title>
+<blurb>Charts and datasets for numerous settings along the Eastern seaboard with tide predictions, surge guidance, anomalies and more</blurb>
+ <source>NOAA NWS Meteorological Development Laboratory</source>
+<link>http://www.nws.noaa.gov/mdl/etsurge/index.php</link> 
+ <thumb>http://www.nws.noaa.gov/mdl/etsurge/msl/data/nhport.gif</thumb></thumbnail> 
+
+<thumbnail><keywords> Eastern Ocean Conditions: Waves, Currents and Tides </keywords>
+<title>North Atlantic Wave Forecast</title> 
+<blurb>Updated several times daily, these forecasts include significant wave height, wave direction and wave periods</blurb>
+ <source>Northeastern Regional Association of Coastal and Ocean Observing Systems</source> <link>http://www.neracoos.org/datatools/forecast/wave</link> 
+ <thumb>images/wave.jpg</thumb><thumblink>http://www.neracoos.org/datatools/forecast/wave</thumblink></thumbnail>
+
+<thumbnail><keywords> Eastern Ocean Conditions: Physical </keywords>
+<title>Ocean Color Northeast</title>
+<blurb>Remote Sensing Reflectance at 667 nm: Bimonthly Mean</blurb>
+ <source>NOAA Office of Satellite and Product Operations</source> <link>http://www.ospo.noaa.gov/index.html</link>
+<thumb>images/oceancolor.png</thumb><thumblink>http://www.ospo.noaa.gov/Products/ocean/color/swir_rrs667_bimonthly.html</thumblink></thumbnail>
+
+
+<thumbnail><keywords> Eastern Ocean Conditions: Physical </keywords>
+<title>Northwest Atlantic Coastal Surface Currents</title> 
+<blurb>High-frequency radar stations report on changes in coastal surface currents along 
+Eastern US Coast (with one site each in NB and NS)</blurb>
+ <source>Northeastern Regional Association of Coastal and Ocean Observing Systems</source> <link>http://neracoos.org/datatools/forecast/surfacecurrents</link>
+<thumb>images/neracross.jpg</thumb><thumblink>http://neracoos.org/datatools/forecast/surfacecurrents</thumblink></thumbnail>
+
+
+<thumbnail><keywords> Eastern Ocean Conditions: Sea-Level Rise </keywords>
+<title>Climate Central Surging Seas Viewer (Northeast US)</title>
+<blurb>Includes maps, forecasts, risk analysis and comparisons for selected urban coastal areas</blurb>
+ <source>Climate Central</source><link>http://sealevel.climatecentral.org/</link>  
+ <thumb>http://sealevel.climatecentral.org/assets/images/home-map-fg-new4.png</thumb></thumbnail> 
+
+</ocean>
+
+</eastern>
+
+<national>
+
+<temperature>
+ <current>
+ 
+<thumbnail><keywords> National Temperature &amp; Precipitation: Recent/Current Conditions </keywords>
+<title>Weekly Extreme Maximum Temperature (US)</title>
+<blurb>National US map of extreme high temperatures (&deg;F), recorded weekly</blurb>
+ <source>NOAA NWS CPC</source>
+<link>http://www.cpc.ncep.noaa.gov/products/analysis_monitoring/regional_monitoring/us_weekly_maxt.shtml</link> 
+ <thumb>http://www.cpc.ncep.noaa.gov/products/analysis_monitoring/regional_monitoring/clrmax.png
+</thumb></thumbnail>
+
+<thumbnail><keywords> National Temperature &amp; Precipitation: Recent/Current Conditions </keywords>
+<title>Weekly Extreme Minimum Temperature (US)</title>
+<blurb>National US map of extreme low temperatures (&deg;F), recorded weekly</blurb>
+  <source>NOAA’s NWS CPC</source>
+<link>http://www.cpc.ncep.noaa.gov/products/analysis_monitoring/regional_monitoring/us_weekly_mint.shtml</link>
+<thumb>http://www.cpc.ncep.noaa.gov/products/analysis_monitoring/regional_monitoring/clrmin.png</thumb></thumbnail> 
+
+<thumbnail><keywords> National Temperature &amp; Precipitation: Recent/Current Conditions </keywords>
+<title>Precipitation (US—daily observations)</title>
+<blurb>Interactive map depicting one-day observed precipitation </blurb>
+ <source>NOAA NWS Advanced Hydrologic Prediction Service</source> <link>http://water.weather.gov/precip/</link> 
+<thumb>downloads/precip5.png</thumb></thumbnail> 
+
+<thumbnail><keywords> National Temperature &amp; Precipitation: Recent/Current Conditions </keywords>
+<title>Precipitation (US—daily observations)</title>
+<blurb>National and state maps with data from volunteers’ sites depicting one-day observed precipitation</blurb> 
+ <source>Community Collaborative Rain, Hail &amp; Snow Network</source>
+<link> http://www.cocorahs.org/ </link> 
+ <thumb>downloads/cocorahs.jpg</thumb></thumbnail>
+
+<thumbnail><keywords> National Temperature &amp; Precipitation: Recent/Current Conditions </keywords>
+<title>US Regional Forecast Centers (including River Forecast Centers)</title>
+<blurb>National interactive map depicting where river gauges have recorded flooding in past 24 hours</blurb>
+ <source>NOAA NWS</source><link> http://water.weather.gov/ahps/index.php</link>
+ <thumb>http://water.weather.gov/images/groundoverlays/conus_all_all_obs.png</thumb></thumbnail>
+  </current>
+  <forecast>
+
+<thumbnail><keywords> National Temperature &amp; Precipitation: Forecasts/Projections/Time Series </keywords>
+<title>US Graphical Forecasts</title>
+<blurb>Interactive map offering a regional snapshot with views of max/min temperatures, probability of precipitation, weather, hazards, dewpoint, relative humidity, wind speed, wind gusts, sky cover, snow amount, ice accumulation and more.</blurb>
+ <source>NOAA NWS</source><link> http://preview.weather.gov/graphical/index.php</link> 
+<thumb>images/usgraphical.jpg</thumb><thumblink>http://preview.weather.gov/graphical/index.php</thumblink></thumbnail>  
+
+<thumbnail><keywords> National Temperature &amp; Precipitation: Forecasts/Projections/Time Series </keywords>
+<title>US Animated Forecasts</title>
+<blurb>Weather Prediction Center’s loop of sea-level pressures and fronts (medium range, days 3-7); and 18-, 24-, 30-,36-, 48- and 60-hour forecasts of fronts/pressures.</blurb> 
+ <source>NOAA NWS Weather Prediction Center</source> <link>http://www.hpc.ncep.noaa.gov/basicwx/day0-7loop.html</link>
+ <thumb>images/usanimated.png</thumb><thumblink>http://www.hpc.ncep.noaa.gov/basicwx/day0-7loop.html</thumblink></thumbnail>
+
+<thumbnail><keywords> National Temperature &amp; Precipitation: Forecasts/Projections/Time Series </keywords>
+<title>US Quantitative Precipitation Forecasts (1- through 7-day)</title>
+<blurb>National map of precipitation forecast (inches per day)</blurb>
+ <source>NOAA NWS Weather Prediction Center</source> <link>http://www.hpc.ncep.noaa.gov/qpf/day1-7.shtml</link>
+ <thumb>http://www.hpc.ncep.noaa.gov/qpf/p168i.gif</thumb></thumbnail>
+  
+  </forecast>
+  <derivative>
+
+<thumbnail><keywords> National Temperature &amp; Precipitation: Derivatives</keywords>
+<title>CPC Crop Moisture Index (weekly)</title>
+<blurb>National map of short-term need for moisture versus available water (inches) in a shallow soil profile updated weekly</blurb>
+ <source>NOAA NWS Climate Prediction Center Drought Monitoring</source> <link>http://www.cpc.ncep.noaa.gov/products/monitoring_and_data/drought.shtml </link>
+<thumb>http://www.cpc.ncep.noaa.gov/products/analysis_monitoring/regional_monitoring/cmi.gif</thumb></thumbnail> 
+
+<thumbnail><keywords> National Temperature &amp; Precipitation: Derivatives</keywords>
+<title>Cosmos Soil Moisture Probes (US)</title>
+<blurb>National map with several eastern sites depicting recent percentage of soil moisture and offering data sets of seasonal change since installation.</blurb>
+ <source>Cosmic-ray Soil Moisture Observing System (NSF Project)</source> <link>http://cosmos.hwr.arizona.edu/Probes/probemap.php</link>
+<thumblink>http://cosmos.hwr.arizona.edu/Probes/probemap.php</thumblink><thumb>images/cosmos.jpg</thumb></thumbnail>
+
+ </derivative>
+
+</temperature>
+
+<drought>
+
+ <current>
+
+<thumbnail><keywords> National Drought &amp; Stream Flow—Recent/Current </keywords>
+<title>Seasonal Drought Outlook (US)</title>
+<blurb>Depicts drought tendency during the current/upcoming three-month period indicating areas within the US where drought is likely to persist/intensify, diminish or develop</blurb>
+ <source>NOAA NWS Climate Prediction Center</source> <link>http://www.cpc.ncep.noaa.gov/products/expert_assessment/sdo_summary.html</link> 
+<thumb>http://www.cpc.ncep.noaa.gov/products/expert_assessment/season_drought.png</thumb></thumbnail> 
+
+<thumbnail><keywords> National Drought &amp; Stream Flow—Recent/Current </keywords>
+<title>CPC Drought Severity Index (US)</title>
+<blurb>Updated weekly, this national map helps illustrate the duration and intensity of the long-term drought-inducing circulation patterns (incorporating current weather patterns and cumulative patterns from previous months).</blurb>
+ <source>NOAA NWS Climate Prediction Center</source> <link>http://www.cpc.ncep.noaa.gov/products/analysis_monitoring/regional_monitoring/palmer.gif</link>
+<thumb>http://www.cpc.ncep.noaa.gov/products/analysis_monitoring/regional_monitoring/palmer.gif</thumb></thumbnail>  
+
+<thumbnail><keywords> National Drought &amp; Stream Flow—Recent/Current </keywords>
+<title>Current Streamflow (US)</title>
+<blurb>Real-time streamflow compared to historical streamflow on interactive national map (updated daily)</blurb>
+ <source>USGS WaterWatch</source> <link>http://waterwatch.usgs.gov/?id=ww_current</link> 
+ <thumb>http://waterwatch.usgs.gov/images/real/us/realb.gif</thumb></thumbnail> 
+
+<thumbnail><keywords> National Drought &amp; Stream Flow—Recent/Current </keywords>
+<title>Below-normal Streamflow (US, compared to historical, by day)</title>
+<blurb>Below-normal streamflow (7-day average), by state, as compared to historical streamflow for the same time period</blurb>
+ <source>USGS WaterWatch</source> <link>http://waterwatch.usgs.gov/?id=ww_drought</link> 
+ <thumb>http://waterwatch.usgs.gov/images/pa07d/us/pa07d_dwc.gif</thumb></thumbnail>
+
+<thumbnail><keywords> National Drought &amp; Stream Flow—Recent/Current </keywords>
+<title>Flood and high flow (US)</title>
+<blurb>Flood and high-flow conditions at gauge stations by state (percentile of flood stage)</blurb>
+ <source>USGS WaterWatch</source> <link>http://waterwatch.usgs.gov/index.php?id=flood</link>
+ <thumb>http://waterwatch.usgs.gov/images/flood/us/floodb.gif</thumb></thumbnail>
+
+ </current>
+ <forecast>
+
+<thumbnail><keywords> National Drought &amp; Stream Flow— Forecasts and Projections </keywords>
+<title>Seasonal Drought Outlook (US)</title>
+<blurb>Depicts drought tendency during the current/upcoming three-month period, indicating areas within the US where drought is likely to persist/intensify, diminish or develop</blurb>
+ <source>NOAA NWS Climate Prediction Center</source> <link>http://www.cpc.ncep.noaa.gov/products/expert_assessment/sdo_summary.html</link> 
+<thumb>http://www.cpc.ncep.noaa.gov/products/expert_assessment/season_drought.png</thumb></thumbnail> 
+
+</forecast>
+
+</drought>
+
+<storms>
+
+<thumbnail><keywords> National Tropical Cyclones (Hurricanes) and Storms </keywords>
+<title>US Hazards Outlook (3- to 14-day)</title>
+<blurb>Interactive map depicting short- to medium-range hazards outlook encompassing winds, waves, precipitation, unusually high or low temperatures, drought and flooding.</blurb>
+ <source>NOAA NWS Climate Prediction Center</source> <link>http://www.cpc.ncep.noaa.gov/products/predictions/threats/threats.php</link> 
+ <thumb>http://www.cpc.ncep.noaa.gov/products/predictions/threats/hazards_d3_7_contours.png</thumb>
+ <thumblink>http://www.cpc.ncep.noaa.gov/products/predictions/threats/threats.php</thumblink>
+ </thumbnail>
+
+<thumbnail><keywords> National Tropical Cyclones (Hurricanes) and Storms </keywords>
+<title>Severe Weather Events (US)</title>
+<blurb>Updated daily, reports from around the US of tornados, wind storms and hail storms</blurb>
+ <source>NOAA NWS Storm Prediction Center</source>, <link>http://www.spc.noaa.gov/climo/reports/today.html</link> 
+ <thumb>http://www.spc.noaa.gov/climo/reports/today_filtered.gif</thumb></thumbnail> 
+
+<thumbnail><keywords> National Tropical Cyclones (Hurricanes) and Storms </keywords>
+<title>Convective and Thunderstorm Outlooks (US)</title>
+<blurb>One- through 8-day national outlooks for severe storms involving hail, wind or tornados and a national map depicting percentage likelihood of thunderstorm occurrences</blurb>
+ <source>NOAA NWS Storm Prediction Center</source> <link>http://www.spc.noaa.gov/products/outlook/</link>  
+<thumb>http://www.spc.noaa.gov/products/exper/enhtstm/imgs/enh_2000.gif?1403802412611</thumb></thumbnail>
+
+<thumbnail><keywords>National Tropical Cyclones (Hurricanes) and Storms</keywords>
+<title>US Climatic Data</title>
+<blurb>Extensive data sets, weather maps/charts, publications, products and more are available through this link</blurb>
+ <source>NOAA National Climatic Data Center</source> <link>http://ncdc.noaa.gov/data-access/quick-links</link>  
+<thumb>images/quick.jpg</thumb>
+<thumblink>http://ncdc.noaa.gov/data-access/quick-links</thumblink>
+</thumbnail>
+
+<thumbnail><keywords>National Tropical Cyclones (Hurricanes) and Storms</keywords>
+<title>NCDC Extreme Weather and Climate Events</title>
+<blurb>Portal to pages on hurricanes, tornados, North American and worldwide weather extremes, El Nino/La Nina, global climate change and more.</blurb>
+ <source>NOAA National Climatic Data Center</source> <link>http://www.ncdc.noaa.gov/oa/climate/severeweather/extremes.html</link>  
+<thumb>images/extremes.jpg</thumb>
+<thumblink>http://www.ncdc.noaa.gov/oa/climate/severeweather/extremes.html</thumblink>
+</thumbnail>
+
+<thumbnail><keywords>National Tropical Cyclones (Hurricanes) and Storms</keywords>
+<title>Experimental US Map of Potential Storm Surge Flooding</title>
+<blurb>An experimental localized map of potential storm surge flooding on which NWS seeks feedback—see source link for details</blurb>
+ <source>NOAA NWS National Hurricane Center</source> <link>http://www.nhc.noaa.gov/experimental/inundation/</link>  
+<thumb>http://www.nhc.noaa.gov/experimental/inundation/images/inundation-charleston-example_sm.jpg</thumb>
+<thumblink>http://www.nhc.noaa.gov/experimental/inundation/</thumblink>
+</thumbnail>
+
+<thumbnail><keywords>National Tropical Cyclones (Hurricanes) and Storms</keywords>
+<title>Historical Hurricane Tracks</title>
+<blurb>Interactive US map that can be searched by storm or location</blurb>
+ <source>NOAA Climate Services Center</source> <link>http://csc.noaa.gov/hurricanes/</link>  
+<thumb>images/hurricanes.jpg</thumb>
+<thumblink>http://csc.noaa.gov/hurricanes/</thumblink>
+</thumbnail>
+
+<thumbnail><keywords>National Tropical Cyclones (Hurricanes) and Storms</keywords>
+<title>East Coast Winter Storms: Historical and Analogue Storm Tracks and Surges</title>
+<blurb>Time series plots of historic winter storms in the Northwest Atlantic between 1972 and 2005</blurb>
+ <source>Northeast Regional Climate Center</source> <link>http://ecws.eas.cornell.edu/stormtrack.html</link>  
+<thumb>http://ecws.eas.cornell.edu/images/banner.jpg</thumb>
+<thumblink>http://ecws.eas.cornell.edu/stormtrack.html</thumblink>
+</thumbnail>
+
+
+<thumbnail><keywords>National Tropical Cyclones (Hurricanes) and Storms</keywords>
+<title>US Hurricane Outlook</title>
+<blurb>Data sets for 20 variables used to monitor the potential for Atlantic Hurricanes</blurb>
+ <source>NOAA NWS Climate Prediction Center</source> <link>http://www.cpc.ncep.noaa.gov/products/hurricane/</link>  
+<thumb>http://www.cpc.ncep.noaa.gov/www_images/hurricane.gif</thumb>
+<thumblink>http://www.cpc.ncep.noaa.gov/products/hurricane/</thumblink>
+</thumbnail>
+
+
+</storms>
+
+<ocean>
+
+<thumbnail><keywords> National Ocean Conditions: Sea-Level Rise </keywords>
+<title>Sea-level Rise Viewer (US)</title>
+<blurb>Interactive map depicting 1- to 6-foot sea-level rise impacts along US Coasts</blurb>
+ <source>NOAA</source> <link>http://csc.noaa.gov/slr/viewer/</link>
+ <thumb>images/slrviewer.jpg</thumb><thumblink>http://csc.noaa.gov/slr/viewer/</thumblink>
+ </thumbnail>
+
+
+<thumbnail><keywords> National Ocean Conditions: Sea-Level Rise </keywords>
+<title>Hurricane-induced Coastal Erosion Hazards (US)</title>
+<blurb>Interactive map depicts most erosion-prone areas, with layers for coastal change probabilities, dune elevations and water levels</blurb>
+ <source>USGS</source> <link>http://olga.er.usgs.gov/hurricane_erosion_hazards/</link> 
+ <thumb>images/erosion.jpg</thumb><thumblink>http://olga.er.usgs.gov/hurricane_erosion_hazards/</thumblink></thumbnail>
+
+<thumbnail><keywords> National Ocean Conditions: Sea-Level Rise </keywords>
+<title>Sea-level Trends (US and Canada)</title>
+<blurb>Interactive map shows sea-level trends in mm/year for Canadian sites and feet/century (US)</blurb>
+ <source>NOAA</source> <link>http://tidesandcurrents.noaa.gov/sltrends/</link>  
+ <thumb>images/sltrends.jpg</thumb><thumblink>http://tidesandcurrents.noaa.gov/sltrends/</thumblink></thumbnail>
+
+<thumbnail><keywords> National Ocean Conditions: Sea-Level Rise </keywords>
+<title> Sea-level Rise Tool for Sandy Recovery </title>
+<blurb> Resources targeted to Communities affected by Hurricane Sandy, including a sea-level change calculator</blurb>
+ <source> US Global Change Research Program </source> <link>http://www.globalchange.gov/browse/sea-level-rise-tool-sandy-recovery#overlay-context=</link>  
+ <thumb>images/sandy.jpg</thumb><thumblink>http://www.globalchange.gov/browse/sea-level-rise-tool-sandy-recovery#overlay-context=</thumblink></thumbnail>
+ 
+ </ocean>
+
+</national>
+
+<canada>
+  <temperature>
+   <current>
+
+<thumbnail><keywords> Canada Temperature &amp; Precipitation: Recent/Current Conditions </keywords>
+<title>Current Observations and Forecasts (Atlantic Provinces)</title>
+<blurb>Current air temperature (&deg;C), with comparable maps depicting rainfall, wind, humidity, degree days and crop-specific data</blurb> 
+ <source>AgWeather Atlantic</source><link> http://atl.agrometeo.org/ </link>
+ <thumb>http://atl.agrometeo.org/images/global/wm_images/en/composite.meteo.index.tair.png</thumb></thumbnail>
+
+<thumbnail><keywords> Canada Temperature &amp; Precipitation: Recent/Current Conditions </keywords>
+<title>Canada Weather Radar</title>
+<blurb>Interactive national map depicting current precipitation (from light to heavy)</blurb>
+ <source>Environment Canada</source> <link>http://weather.gc.ca/radar/index_e.html</link>
+ <thumb>images/nat_composite.jpg</thumb><thumblink>http://weather.gc.ca/radar/index_e.html</thumblink></thumbnail>
+
+<thumbnail><keywords> Canada Temperature &amp; Precipitation: Recent/Current Conditions </keywords>
+<title>Canadian Climate Data</title>
+<blurb>Historical Climate Data, Historical Radar, Engineeering Climate Data Sets, Climate Normals and Monthly Climate Summaries</blurb> 
+ <source>Government of Canada</source> <link>http://climate.weather.gc.ca/</link>
+<thumb>http://climate.weather.gc.ca/images/monthlysummaries.png</thumb><thumblink>http://climate.weather.gc.ca/</thumblink></thumbnail>
+
+ </current>
+ <forecast>
+
+<thumbnail><keywords> Canada Temperature &amp; Precipitation: Forecasts/Projections/Time Series </keywords>
+<title>Canada Weather Radar—Atlantic Provinces</title>
+<blurb>Real-time precipitation animation (mm/hr) shown for Atlantic region</blurb>
+ <source>Government of Canada</source> <link>http://weather.gc.ca/radar/index_e.html?id=ERN</link> 
+<thumb>http://weather.gc.ca/cacheable/images/radar/layers_detailed/composite_cities/atl_composite.gif?ver=1402675003</thumb> </thumbnail>
+
+<thumbnail><keywords> Canada Temperature &amp; Precipitation: Forecasts/Projections/Time Series </keywords>
+<title>Canada Temperature and Precipitation Forecasts</title>
+<blurb>Probabilistic forecasts for current/upcoming season</blurb>
+ <source>Government of Canada</source> <link>http://weather.gc.ca/saisons/prob_e.html</link>   
+ <thumb>http://weather.gc.ca/data/saisons/images/s123pfe1t_cal_comb.gif</thumb></thumbnail> 
+
+
+<thumbnail><keywords> Canada Temperature &amp; Precipitation: Derivatives </keywords>
+<title>Agriclimate Maps and Data (Canada)</title>
+<blurb>Accumulated precipitation, percent of normal precipitation, difference from normal precipitation, percentile precipitation, dry spell and temperature</blurb>
+ <source>Agriculture Canada</source> <link>http://www.agr.gc.ca/DW-GS/current-actuelles.jspx?lang=eng&amp;jsEnabled=true</link> 
+ <thumb>http://www5.agr.gc.ca/resources/prod/doc/pfra/maps/nrt/nl_ay_ac_s_e.gif</thumb></thumbnail> 
+ </forecast>
+
+ </temperature>
+ <drought>
+
+<thumbnail><keywords> Canada Drought &amp; Stream Flow—Recent/Current</keywords>
+<title>Canadian Streamflow</title>
+<blurb>Maps depicting real-time hydrometric (water level and streamflow) data collected at more than 1,700 locations</blurb> 
+ <source>Environment Canada Water Office</source> <link>http://www.wateroffice.ec.gc.ca/index_e.html</link> 
+ <thumb>images/water.jpg</thumb><thumblink>http://www.wateroffice.ec.gc.ca/google_map/google_map_e.html?search_by=w&amp;wsc_region=ATL</thumblink></thumbnail>
+
+</drought>
+<winter>
+
+<thumbnail><keywords> Canada Winter Weather</keywords>
+<title> Canadian Ice Service—East Coast</title>
+<blurb> Ice charts for areas within the East Coast region</blurb> 
+ <source> Government of Canada </source> <link>http://iceweb1.cis.ec.gc.ca/Prod20/page2.xhtml?CanID=11091&amp;lang=en</link> 
+ <thumb>http://iceweb1.cis.ec.gc.ca/IceGraph20/images_web/ecoast.gif</thumb>
+ <thumblink>http://iceweb1.cis.ec.gc.ca/Prod20/page2.xhtml?CanID=11091&amp;lang=en</thumblink>
+ </thumbnail>
+</winter>
+<ocean>
+
+<thumbnail><keywords> Canada Ocean Conditions: Sea-surface Temperatures</keywords>
+<title>Canadian Online Scientific Buoys</title>
+<blurb>Real-time monitoring of water temperature, salinity, water density, fluorescence and organic matter</blurb>
+ <source>St. Lawrence Global Observatory</source> <link>http://ogsl.ca/en/buoys/data.html</link>
+ <thumb>http://slgo.ca/app-bouees/action/BuoyGraphical?width=710&amp;height=350&amp;station=IML-4&amp;type=temp_eau&amp;days=183&amp;lg=en</thumb></thumbnail> 
+
+<thumbnail><keywords> Canada Ocean Conditions: Sea-surface Temperatures</keywords>
+<title> Canadian Oceanographic Database (Registration Required)
+</title>
+<blurb> Datasets on sea-surface temperature, coastal time series, temperature-salinity profiles, and ocean color
+</blurb>
+ <source> Bedford Institute of Oceanography </source> <link>http://www.bio.gc.ca/index-eng.php</link>
+ <thumb>http://www.bio.gc.ca/images/collage-eng.jpg</thumb><thumblink>http://www.bio.gc.ca/science/data-donnees/base/start-commencer-eng.php</thumblink></thumbnail> 
+
+
+
+<thumbnail><keywords> Canada Ocean Conditions: Waves, Currents and Tides </keywords>
+<title>Canadian Wave Height Map</title>
+<blurb>Current marine watches and warnings</blurb>
+ <source>Government of Canada</source><link>http://weather.gc.ca/marine/index_e.html</link>
+ <thumb>http://weather.gc.ca/data/marine/images/CanadaMapWarningStatus_e.png</thumb></thumbnail> 
+ </ocean>
+
+</canada>
+
+<global>
+<storms>
+<thumbnail><keywords> Global Tropical Cyclones (Hurricanes) and Storms </keywords>
+<title>Atlantic Tropical Weather Outlook</title>
+<blurb>Updated four times daily between June and November, these maps summarize tropical weather outlooks, depict active storms and offers marine forecasts</blurb>
+ <source>NOAA NWS National Hurricane Center</source> <link>http://www.nhc.noaa.gov/?atlc</link> 
+ <thumb>images/hurricane.jpg</thumb><thumblink>http://www.nhc.noaa.gov/?atlc</thumblink></thumbnail> 
+
+<thumbnail><keywords> Global Tropical Cyclones (Hurricanes) and Storms </keywords>
+<title>Global Tropical Cyclone Tracks</title>
+<blurb>Global depiction of tropical cyclone tracks from 4 years (spanning from 1851 to 2008) and a cumulative image that clearly shows the storms’ global patterns</blurb>
+ <source>climate.gov</source> <link>http://www.climate.gov/news-features/understanding-climate/tropical-cyclone-tracks</link> 
+ <thumb>images/cyclones.jpg</thumb><thumblink>http://www.climate.gov/news-features/understanding-climate/tropical-cyclone-tracks</thumblink></thumbnail>
+
+<thumbnail><keywords> Global Tropical Cyclones (Hurricanes) and Storms </keywords>
+<title>North Atlantic Hurricane Tracking Chart (most recent annual)</title>
+<blurb>Tracks of Hurricanes, Tropical Storms, Subtropical Storms and Wave/Lows through the North Atlantic in the previous calendar year, with numbered list of named storms</blurb>
+ <source>NOAA National Climatic Data Center</source> <link>http://www.ncdc.noaa.gov/sotc/tropical-cyclones/</link> 
+ <thumb>http://www1.ncdc.noaa.gov/pub/data/cmb/images/hurricane/2013/annual/ATL_2013.gif</thumb> </thumbnail>
+ 
+<thumbnail><keywords> Global Tropical Cyclones (Hurricanes) and Storms </keywords>
+<title>Precipitation Anomalies</title>
+<blurb>Rainfall anomaly made by comparing rainfall data compiled during the twelve-year period from 2001-2012 to near real-time. This product is updated daily.</blurb>
+ <source>NASA Tropical Rainfall Measuring Mission (TRMM)</source> <link>http://trmm.gsfc.nasa.gov/trmm_rain/Events/thirty_day.html</link> 
+ <thumb>http://trmm.gsfc.nasa.gov/trmm_rain/Events/new_big_anomaly.gif</thumb> </thumbnail>
+ 
+ <thumbnail><keywords> Global Tropical Cyclones (Hurricanes) and Storms </keywords>
+<title>Weekly Global Rainfall</title>
+<blurb>Rainfall added up over the course of the last week. This product is updated daily.</blurb>
+ <source>NASA Precipitation Measuring Mission (PMM)</source> <link>http://pmm.nasa.gov/TRMM/realtime-3hr-7day-rainfall</link> 
+ <thumb>http://trmm.gsfc.nasa.gov/trmm_rain/Events/big_global_accumlation.gif</thumb> </thumbnail>
+ 
+</storms>
+
+<winter>
+
+<thumbnail><keywords> Global Winter Weather </keywords>
+<title>Daily Snow Cover</title>
+<blurb>Global view of current snow cover with historic maps searchable by day and year</blurb>
+ <source>Rutgers University Global Snow Lab</source> <link>http://climate.rutgers.edu/snowcover/chart_daily.php?ui_year=2014&amp;ui_day=148&amp;ui_set=0</link> 
+ <thumb>http://128.6.226.99/~njwxnet/png/daily_ims/2014148.png</thumb></thumbnail> 
+</winter>
+
+<ocean>
+
+<thumbnail><keywords> Global Ocean Conditions: Sea-surface Temperatures </keywords>
+<title>Atlantic Sea-surface Temperature (Reynolds Daily Loop)</title>
+<blurb>Real-time sea-surface temperature (in &deg;C) analyzed daily</blurb> 
+ <source>NOAA NWS National Hurricane Center</source> <link>http://www.nhc.noaa.gov/aboutsst.shtml</link> 
+ <thumb>http://www.ssd.noaa.gov/PS/TROP/DATA/RT/SST/ATL/20.jpg</thumb></thumbnail>
+
+<thumbnail><keywords> Global Ocean Conditions: Sea-surface Temperatures </keywords>
+<title>Atlantic Sea-surface Temperature (Reynolds 7-Day Analysis)</title>
+<blurb>Real-time sea-surface temperature (in &deg;C) analyzed weekly</blurb>
+ <source>NOAA NWS National Hurricane Center</source> <link>http://www.nhc.noaa.gov/aboutsst.shtml</link> 
+ <thumb>http://www.nhc.noaa.gov/tafb/atl_anal.gif </thumb></thumbnail>
+
+<thumbnail><keywords> Global Ocean Conditions: Sea-surface Temperatures </keywords>
+<title>Atlantic Sea-surface Temperature (Anomaly)</title>
+<blurb>Real-time sea-surface temperature anomalies (in &deg;C)</blurb> 
+ <source>NOAA NWS National Hurricane Center</source> <link>http://www.nhc.noaa.gov/aboutsst.shtml</link> 
+ <thumb>http://www.nhc.noaa.gov/tafb/atl_anom.gif</thumb></thumbnail>
+
+
+<thumbnail><keywords> Global Ocean Conditions: Sea-surface Temperatures </keywords>
+<title>Sea-surface Temperature Anomalies—Historical to 1985</title>
+<blurb>8-day and monthly anomalies in sea-surface temperature showing discrepancies from the climatological average during the selected period</blurb>
+ <source>University of Maine Satellite Oceanography Data Lab</source> <link>http://wavy.umeoce.maine.edu/frames_anoms.html</link> 
+<thumb>http://wavy.umeoce.maine.edu/GOMOOS/avhrr/pictures/PATHFINDER/clim/merged/anom/8day/2014/mergedanom001-008_2014.jpg</thumb><thumblink>http://wavy.umeoce.maine.edu/frames_anoms.html</thumblink></thumbnail>
+
+<thumbnail><keywords> Global Ocean Conditions: Waves, Currents and Tides </keywords>
+<title>West Atlantic Surface Analysis</title>
+<blurb>Daily forecast tracks</blurb> 
+ <source>NOAA NWS Ocean Predication Center</source> <link>http://www.opc.ncep.noaa.gov/Atl_tab.shtml</link>  
+  <thumb>http://www.opc.ncep.noaa.gov/A_w_sfc_color.png
+</thumb></thumbnail>
+
+<thumbnail><keywords> Global Ocean Conditions: Waves, Currents and Tides </keywords>
+<title>West Atlantic Wind and Wave Analysis</title>
+<blurb>Includes significant wave height (average height of highest one-third of the waves)</blurb>
+ <source>NOAA NWS Ocean Predication Center</source> <link>http://www.opc.ncep.noaa.gov/Atl_tab.shtml</link>  
+ <thumb>http://www.opc.ncep.noaa.gov/shtml/ira1.gif</thumb></thumbnail>
+
+<thumbnail><keywords> Global Ocean Conditions: Waves, Currents and Tides </keywords>
+<title>West Atlantic Currents </title>
+<blurb>Graphic depiction of global real-time operational forecast system changes in Gulf Stream region spanning recent days</blurb>
+ <source>NOAA NWS Ocean Predication Center</source> <link>http://www.opc.ncep.noaa.gov/Loops/GRTOFS/currents/GRtofs_Curr_GS_03_Day_flash.shtml</link> 
+ <thumb>images/currents.jpg</thumb><thumblink>http://www.opc.ncep.noaa.gov/Loops/GRTOFS/currents/GRtofs_Curr_GS_03_Day_flash.shtml</thumblink></thumbnail>
+
+<thumbnail><keywords> Global Ocean Conditions: Waves, Currents and Tides </keywords>
+<title>Wave Period Atlantic Seaboard</title> 
+<blurb>24-, 48- and 96-hour wave period and direction</blurb>
+ <source>NOAA NWS Ocean Predication Center</source> <link>http://www.opc.ncep.noaa.gov/Atl_tab.shtml</link> 
+ <thumb>http://www.opc.ncep.noaa.gov/shtml/A_024hrwper_color.gif</thumb></thumbnail>
+
+<thumbnail><keywords> Global Ocean Conditions: Waves, Currents and Tides </keywords>
+<title>Atlantic Significant Wave Height and Peak Direction Forecast</title>
+<blurb>Includes wind sea wave height, primary and secondary swell wave height, peak wave period, wind sea period and primary and secondary swell periods.</blurb>
+ <source>NOAA NWS Environmental Modeling Center</source> <link>http://polar.ncep.noaa.gov/waves/viewer.shtml?-multi_1-US_eastcoast</link> 
+ <thumb>images/wavewatch.jpg</thumb><thumblink>http://polar.ncep.noaa.gov/waves/viewer.shtml?-multi_1-US_eastcoast</thumblink></thumbnail> 
+
+
+<thumbnail><keywords> Global Ocean Conditions: ENSO and Other Climate Indices </keywords>
+<title>Madden/Julian Oscillation</title>
+<blurb>Depicts this tropical disturbance that has wide-ranging impacts on precipitation, atmospheric 
+circulation, and surface temperature and potential ENSO impacts</blurb>
+ <source>NOAA NWS Climate Prediction Center</source> <link>http://www.cpc.ncep.noaa.gov/products/precip/CWlink/MJO/mjo.shtml</link> 
+ <thumb>http://www.cpc.ncep.noaa.gov/products/intraseasonal/z200anim.gif </thumb></thumbnail>
+
+<thumbnail><keywords> Global Ocean Conditions: ENSO and Other Climate Indices </keywords>
+<title>Tropical Pacific Sea-Surface Temperatures (ENSO)</title>
+<blurb>Weekly averaged sea-surface temperatures and anomalies spanning past twelve weeks</blurb>
+ <source>NOAA NWS Climate Prediction Center</source> <link>http://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_update/sstanim.shtml</link> 
+ <thumb>http://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_update/sstanim.gif </thumb></thumbnail>
+
+<thumbnail>
+ <links>
+  <link>
+    <href>http://www.aoml.noaa.gov/phod/amo_faq.php</href> 
+	<display>Atlantic Multidecadal Oscillation: Frequently Asked Questions</display>
+  </link>
+  <link>
+    <href>http://www.climate.gov/news-features/department/8443/all</href> 
+	<display>ENSO Blog: Scientific perspectives and analysis on the progression of El Nino</display>
+  </link>
+  <link>
+    <href>http://www.cpc.ncep.noaa.gov/products/analysis_monitoring/lanina/</href> 
+	<display>El Nino/La Nina: Behind-the-forecasts information</display>
+  </link>
+  <link>
+    <href>http://www.cpc.ncep.noaa.gov/products/precip/CWlink/pna/nao.shtml</href> 
+	<display>North Atlantic Oscillation: Current conditions and outlooks as well as the daily NAO index for the past 120 days</display>
+  </link>
+ </links>
+</thumbnail>
+
+
+
+
+ 
+ </ocean>
+ </global>
+ 
+</thumbnails>
