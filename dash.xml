@@ -26,19 +26,20 @@
 
 <thumbnail>
  <keywords> Eastern Temperature &amp; Precipitation: Recent/Current Conditions</keywords>
+ <title>Precipitation (Northeast - Daily Observation)</title>
+ <blurb>Continental US: Current 1-Day Observed Precipitation</blurb>
+ <source>NWS Advanced Hydological Prediction Service</source> <link>http://water.weather.gov/precip/index.php</link> 
+ <thumb>downloads/precip5.png</thumb>
+</thumbnail>
+
+<thumbnail>
+ <keywords> Eastern Temperature &amp; Precipitation: Recent/Current Conditions</keywords>
  <title>Gulf of Maine Council on the Marine Environment - EcoSystem Indicator Partnership</title>
  <blurb>ESIP indicator reporting tool tracks precipitation and air temperature at sites around the Gulf of Maine</blurb>
  <source>Gulf of Maine Council</source> <link>http://www.gulfofmaine.org/2/esip-homepage/</link> 
  <thumb>images/esip.jpg</thumb> <thumblink>http://www.gulfofmaine.org/esip/reporting</thumblink>
 </thumbnail>
 
-<thumbnail>
- <keywords> Eastern Temperature &amp; Precipitation: Recent/Current Conditions</keywords>
- <title>Precipitation (Northeast - Daily Observation)</title>
- <blurb>Continental US: Current 1-Day Observed Precipitation</blurb>
- <source>NWS Advanced Hydological Prediction Service</source> <link>http://water.weather.gov/precip/index.php</link> 
- <thumb>downloads/precip5.png</thumb>
-</thumbnail>
 
   </current>
   <forecast>
