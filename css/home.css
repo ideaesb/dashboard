@@ -353,7 +353,7 @@ nav ul ul ul {
   font-size: 9px;
 	font-style: italic;
 	word-wrap: break-word;
-	word-break: break-all;	
+	word-break: keep-all;	
 }
 
 .link {

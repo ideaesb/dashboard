@@ -96,25 +96,29 @@ $xml = simplexml_load_file('dash.xml');
 	  //	  .find("> .ui-icon").toggleClass("ui-icon-triangle-1-e ui-icon-triangle-1-s").end()
 	  //	  .next().toggleClass("ui-accordion-content-active").slideToggle();
 
-	  $("#sectionE").toggleClass("ui-accordion-header-active ui-state-active ui-state-default ui-corner-bottom")
-		  .find("> .ui-icon").toggleClass("ui-icon-triangle-1-e ui-icon-triangle-1-s").end()
-		  .next().toggleClass("ui-accordion-content-active").slideToggle();
+	  //$("#sectionE").toggleClass("ui-accordion-header-active ui-state-active ui-state-default ui-corner-bottom")
+	  //  .find("> .ui-icon").toggleClass("ui-icon-triangle-1-e ui-icon-triangle-1-s").end()
+	  //	  .next().toggleClass("ui-accordion-content-active").slideToggle();
 
-	  $("#sectionG").toggleClass("ui-accordion-header-active ui-state-active ui-state-default ui-corner-bottom")
-		  .find("> .ui-icon").toggleClass("ui-icon-triangle-1-e ui-icon-triangle-1-s").end()
-		  .next().toggleClass("ui-accordion-content-active").slideToggle();
+	  //$("#sectionG").toggleClass("ui-accordion-header-active ui-state-active ui-state-default ui-corner-bottom")
+	  //	  .find("> .ui-icon").toggleClass("ui-icon-triangle-1-e ui-icon-triangle-1-s").end()
+	  //	  .next().toggleClass("ui-accordion-content-active").slideToggle();
 
-	  $("#dashboard81").toggleClass("ui-accordion-header-active ui-state-active ui-state-default ui-corner-bottom")
-		  .find("> .ui-icon").toggleClass("ui-icon-triangle-1-e ui-icon-triangle-1-s").end()
-		  .next().toggleClass("ui-accordion-content-active").slideToggle();		
+	  //$("#dashboard81").toggleClass("ui-accordion-header-active ui-state-active ui-state-default ui-corner-bottom")
+	  //  .find("> .ui-icon").toggleClass("ui-icon-triangle-1-e ui-icon-triangle-1-s").end()
+	  //  .next().toggleClass("ui-accordion-content-active").slideToggle();		
 
-	  $("#dashboard811").toggleClass("ui-accordion-header-active ui-state-active ui-state-default ui-corner-bottom")
-		  .find("> .ui-icon").toggleClass("ui-icon-triangle-1-e ui-icon-triangle-1-s").end()
-		  .next().toggleClass("ui-accordion-content-active").slideToggle();		
+	  //$("#dashboard811").toggleClass("ui-accordion-header-active ui-state-active ui-state-default ui-corner-bottom")
+	  //  .find("> .ui-icon").toggleClass("ui-icon-triangle-1-e ui-icon-triangle-1-s").end()
+	  //	  .next().toggleClass("ui-accordion-content-active").slideToggle();		
 
-	  $("#dashboard8111").toggleClass("ui-accordion-header-active ui-state-active ui-state-default ui-corner-bottom")
-		  .find("> .ui-icon").toggleClass("ui-icon-triangle-1-e ui-icon-triangle-1-s").end()
-		  .next().toggleClass("ui-accordion-content-active").slideToggle();		
+	  //$("#dashboard8111").toggleClass("ui-accordion-header-active ui-state-active ui-state-default ui-corner-bottom")
+	  //	  .find("> .ui-icon").toggleClass("ui-icon-triangle-1-e ui-icon-triangle-1-s").end()
+	  //	  .next().toggleClass("ui-accordion-content-active").slideToggle();		
+
+	  $("#section6").toggleClass("ui-accordion-header-active ui-state-active ui-state-default ui-corner-bottom")
+	  	  .find("> .ui-icon").toggleClass("ui-icon-triangle-1-e ui-icon-triangle-1-s").end()
+	  	  .next().toggleClass("ui-accordion-content-active").slideToggle();
 								
 		$('#image1').click(function(){
         $("#dialog1").dialog({ width: 600, height: 400 });
@@ -161,12 +165,12 @@ $xml = simplexml_load_file('dash.xml');
   <tr>
     <td width="50%" valign="middle" class="title"><h1 align="center">Climate Impacts and Outlook</h1></td>
     <td width="50%" valign="middle" class="title"><h2 align="center">Eastern Region<br />
-      1<sup>st</sup> Quarter 2014</h2></td>
+      Fall 2014</h2></td>
   </tr>  
 </table>
 </div>
 <div id="note">
-<p class="note-text">This web page provides a digital version of the quarterly <i>Gulf of Maine Region Climate Impacts and Outlook</i>, which offers a snapshot of recent weather events and anomalies; discusses regional weather impacts on the region’s ecosystems and economy; and provides a forecast for the coming three months. A regional &quot;climate dashboard&quot; links to a wide variety of sites offering real-time data tracking temperature, precipitation, drought, storms, sea surface variables and more.</p>
+<p class="note-text">The quarterly Gulf of Maine Region Climate Impacts and Outlook offers a snapshot of recent weather events and anomalies; regional weather impacts on ecosystems and economic sectors; and a forecast for the coming three months.  Click on any tab in the dashboard, it will expand to show an associated selection of panes. (Click again and it will collapse).  Click on any figure in a pane to view a full-sized version, and click again to reduce it.</p>
 </div>
 <div id="toggle_panels">
  <h3 id="sectionE">Eastern Region</h3>
@@ -177,7 +181,7 @@ $xml = simplexml_load_file('dash.xml');
   
  <h3 id="sectionG">Gulf of Maine Region</h3>
  <div id="panelG">
-  <?php include 'eastern.php' ?>
+  <?php include 'gulf.php' ?>
  </div><!-- closes div id="panelG -->
   
 <div align="center">
@@ -190,7 +194,7 @@ $xml = simplexml_load_file('dash.xml');
   
   
   <div id="note">
-  <p class="note-text">Information in the dashboard  is grouped first by climate variable and/or impact and then by time frame.  Click on any tab in the dashboard, it will expand to show an associated selection of panes. (Click again and it will collapse).  Click on any figure in a pane to view a full-sized version, and click again to reduce it. Click on the &quot;?&quot; button to view the figure caption.  Note that figures are automatically updated as often as the original providers post them on their respective websites (the update frequency is included in the caption).  This means, the figures in the print version of the outllook may not be fully consistent with those found here. Click on the source URL to go to the site where the figure originated and find additional data and information.</p>
+  <p class="note-text">Information in the dashboard  is grouped first by climate variable and/or impact and then by time frame.   Click on the &quot;?&quot; button to view the figure caption.  Click on the source URL to go to the site where the figure originated and find additional data and information.</p>
  </div>
 
 
@@ -246,7 +250,7 @@ $xml = simplexml_load_file('dash.xml');
           </div><!-- end forecast conditions -->
           
           
-         <h3 id="dashboard8113">Derivates</h3>
+         <h3 id="dashboard8113">Derivate Products</h3>
          <div id="dashboard8113_panel1">
 
 
@@ -429,7 +433,7 @@ $xml = simplexml_load_file('dash.xml');
           </div><!-- end forecast conditions -->
           
           
-         <h3 id="dashboard8213">Derivates</h3>
+         <h3 id="dashboard8213">Derivative Products</h3>
          <div id="dashboard8213_panel1">
 
 
@@ -817,11 +821,11 @@ $xml = simplexml_load_file('dash.xml');
           <a href="https://weather.gc.ca/canada_e.html" target="_blank">http://weather.gc.ca/</a></td>
         <td><img src="images/environment_canada.jpg" /></td>
       </tr>
-     <tr>
+     <!-- tr>
         <td>Northeast Regional Ocean Council<br />
           <a href="http://northeastoceancouncil.org/" target="_blank">http://northeastoceancouncil.org/</a></td>
         <td><img src="images/nroc-logo-90px.png"  /></td>
-      </tr>
+      </tr -->
     </table>
   </div>
 

@@ -28,7 +28,7 @@
  <keywords> Eastern Temperature &amp; Precipitation: Recent/Current Conditions</keywords>
  <title>Precipitation (Northeast - Daily Observation)</title>
  <blurb>Continental US: Current 1-Day Observed Precipitation</blurb>
- <source>NWS Advanced Hydological Prediction Service</source> <link>http://water.weather.gov/precip/index.php</link> 
+ <source>NWS Advanced Hydological...</source> <link>http://water.weather.gov/precip/index.php</link> 
  <thumb>downloads/precip5.png</thumb>
 </thumbnail>
 
@@ -59,18 +59,6 @@
  <thumb>http://www.hprcc.unl.edu/products/maps/acis/nrcc/30dTDeptNRCC.png</thumb></thumbnail> 
 
 <thumbnail><keywords> Eastern Temperature &amp; Precipitation: Forecasts/Projections/Time Series</keywords>
-<title>Southeast US Climate Summary: Average Temperature (30 day)</title>
-<blurb>Regional average temperatures (&deg;F) over the previous 30 days</blurb>
- <source>High Plains Regional Climate Center</source> <link>http://www.hprcc.unl.edu/maps/current/index.php?action=update_region&amp;region=SERCC</link> 
- <thumb>http://www.hprcc.unl.edu/products/maps/acis/sercc/30dTDataSERCC.png</thumb></thumbnail> 
-
-<thumbnail><keywords> Eastern Temperature &amp; Precipitation: Forecasts/Projections/Time Series</keywords>
-<title>Southeast US Climate Summary: Departure from Normal Temperature (30 day)</title>
-<blurb>Regional departure from normal temperature (&deg;F) over the previous 30 days</blurb>
- <source>High Plains Regional Climate Center</source> <link>http://www.hprcc.unl.edu/maps/current/index.php?action=update_product&amp;product=TDept</link> 
- <thumb>http://www.hprcc.unl.edu/products/maps/acis/sercc/30dTDeptSERCC.png</thumb></thumbnail> 
-
-<thumbnail><keywords> Eastern Temperature &amp; Precipitation: Forecasts/Projections/Time Series</keywords>
 <title>Northeast US Climate Summary: Total Precipitation (30 day)</title>
 <blurb>Regional total precipitation (inches) over the previous 30 days</blurb>
  <source>High Plains Regional Climate Center</source>
@@ -96,6 +84,19 @@
  <source>High Plains Regional Climate Center</source>
 <link>http://www.hprcc.unl.edu/maps/current/index.php?action=update_product&amp;product=SPIData</link> 
  <thumb>http://www.hprcc.unl.edu/products/maps/acis/nrcc/30dSPIDataNRCC.png</thumb></thumbnail> 
+
+
+<thumbnail><keywords> Eastern Temperature &amp; Precipitation: Forecasts/Projections/Time Series</keywords>
+<title>Southeast US Climate Summary: Average Temperature (30 day)</title>
+<blurb>Regional average temperatures (&deg;F) over the previous 30 days</blurb>
+ <source>High Plains Regional Climate Center</source> <link>http://www.hprcc.unl.edu/maps/current/index.php?action=update_region&amp;region=SERCC</link> 
+ <thumb>http://www.hprcc.unl.edu/products/maps/acis/sercc/30dTDataSERCC.png</thumb></thumbnail> 
+
+<thumbnail><keywords> Eastern Temperature &amp; Precipitation: Forecasts/Projections/Time Series</keywords>
+<title>Southeast US Climate Summary: Departure from Normal Temperature (30 day)</title>
+<blurb>Regional departure from normal temperature (&deg;F) over the previous 30 days</blurb>
+ <source>High Plains Regional Climate Center</source> <link>http://www.hprcc.unl.edu/maps/current/index.php?action=update_product&amp;product=TDept</link> 
+ <thumb>http://www.hprcc.unl.edu/products/maps/acis/sercc/30dTDeptSERCC.png</thumb></thumbnail> 
 
 <thumbnail><keywords> Eastern Temperature &amp; Precipitation: Forecasts/Projections/Time Series</keywords>
 <title>Southeast US Climate Summary: Total Precipitation (30 day)</title>
@@ -174,13 +175,6 @@
  <thumb>http://www.nrcc.cornell.edu/dyn_images/grass/sdfct.png</thumb></thumbnail> 
  
  
-<thumbnail><keywords> Eastern Temperature &amp; Precipitation: Derivatives </keywords>
-<title>Fisheries-related data (Northeast US)</title>
-<blurb>Measurements from the Northwest Atlantic of bottom temperature, salinity, and current velocity gathered with help from nearly 100 regional lobstermen</blurb>
- <source>Environmental Monitors on Lobster Traps (eMOLT)</source>
-<link>http://www.emolt.org/</link> 
- <thumb>images/emolt.jpg</thumb><thumblink>http://www.nefsc.noaa.gov/epd/ocean/MainPage/emolt.html</thumblink></thumbnail> 
- 
  <thumbnail>
   <links>
     <link>
@@ -234,13 +228,13 @@
 <thumbnail><keywords> Eastern Drought &amp; Stream Flow— Derivative Products </keywords>
 <title>Northeast US Rivers—Month-to-Date up to Year-to-Date Precipitation</title>
 <blurb>Recent precipitation trends affecting regional water supplies</blurb>
- <source>NOAA NWS Northeast River Forecast Center</source> <link>http://www.erh.noaa.gov/nerfc/watersupply.shtml </link>
+ <source>NOAA NWS Northeast River Forecast Ctr</source> <link>http://www.erh.noaa.gov/nerfc/watersupply.shtml </link>
  <thumb>http://www.erh.noaa.gov/nerfc/watersupply/pgmtd.png</thumb></thumbnail> 
 
 <thumbnail><keywords> Eastern Drought &amp; Stream Flow— Derivative Products </keywords>
 <title>Northeast US Rivers—Month-to-Date up to Year-to-Date Departures from Normal</title>
 <blurb>Recent precipitation trends compared to the 30-year “normal” for the same period</blurb>
- <source>NOAA NWS Northeast River Forecast Center</source> <link>http://www.erh.noaa.gov/nerfc/watersupply.shtml </link>
+ <source>NOAA NWS Northeast River Forecast Ctr</source> <link>http://www.erh.noaa.gov/nerfc/watersupply.shtml </link>
  <thumb>http://www.erh.noaa.gov/nerfc/watersupply/dgmtd.png</thumb></thumbnail> 
  </derivative>
 
@@ -251,13 +245,13 @@
 <thumbnail><keywords> Eastern Winter Weather </keywords>
 <title>Current Snowfall (Northeast US)</title>
 <blurb>Depicts daily snowfall in inches</blurb>
- <source>NOAA NWS Northeast River Forecast Center</source> <link>http://www.erh.noaa.gov/nerfc/graphics/snowmaps/html/daily_snowfall.html </link>
+ <source>NOAA NWS Northeast River Forecast Ctr</source> <link>http://www.erh.noaa.gov/nerfc/graphics/snowmaps/html/daily_snowfall.html </link>
  <thumb>http://www.erh.noaa.gov/nerfc/graphics/snowmaps/sf1_today.jpg</thumb></thumbnail> 
 
 <thumbnail><keywords> Eastern Winter Weather </keywords>
 <title>Current Snow Depth (Northeast US)</title>
 <blurb>Current regional snow depth, updated daily</blurb>
- <source>NOAA NWS Northeast River Forecast Center</source> <link>http://www.erh.noaa.gov/nerfc/graphics/snowmaps/html/snow_depth.html</link>
+ <source>NOAA NWS Northeast River Forecast Ctr</source> <link>http://www.erh.noaa.gov/nerfc/graphics/snowmaps/html/snow_depth.html</link>
  <thumb>http://www.erh.noaa.gov/nerfc/graphics/snowmaps/sd1_today.jpg</thumb></thumbnail> 
 
 <thumbnail><keywords> Eastern Winter Weather </keywords>
@@ -349,6 +343,16 @@ Eastern US Coast (with one site each in NB and NS)</blurb>
 <blurb>Includes maps, forecasts, risk analysis and comparisons for selected urban coastal areas</blurb>
  <source>Climate Central</source><link>http://sealevel.climatecentral.org/</link>  
  <thumb>http://sealevel.climatecentral.org/assets/images/home-map-fg-new4.png</thumb></thumbnail> 
+ 
+ <thumbnail>
+  <links>
+    <link>
+	  <href>http://www.nefsc.noaa.gov/epd/ocean/MainPage/emolt.html</href>
+	  <display>Fisheries-related data (Northeast US)</display>
+	</link>
+  </links>
+ </thumbnail>
+ 
 
 </ocean>
 
@@ -461,7 +465,7 @@ Eastern US Coast (with one site each in NB and NS)</blurb>
  <thumb>http://waterwatch.usgs.gov/images/pa07d/us/pa07d_dwc.gif</thumb></thumbnail>
 
 <thumbnail><keywords> National Drought &amp; Stream Flow—Recent/Current </keywords>
-<title>Flood and high flow (US)</title>
+<title>Flood and High Flow (US)</title>
 <blurb>Flood and high-flow conditions at gauge stations by state (percentile of flood stage)</blurb>
  <source>USGS WaterWatch</source> <link>http://waterwatch.usgs.gov/index.php?id=flood</link>
  <thumb>http://waterwatch.usgs.gov/images/flood/us/floodb.gif</thumb></thumbnail>
@@ -496,18 +500,10 @@ Eastern US Coast (with one site each in NB and NS)</blurb>
  <thumb>http://www.spc.noaa.gov/climo/reports/today_filtered.gif</thumb></thumbnail> 
 
 <thumbnail><keywords> National Tropical Cyclones (Hurricanes) and Storms </keywords>
-<title>Convective and Thunderstorm Outlooks (US)</title>
-<blurb>One- through 8-day national outlooks for severe storms involving hail, wind or tornados and a national map depicting percentage likelihood of thunderstorm occurrences</blurb>
+<title>Convective and Thunderstorm Outlook (US)</title>
+<blurb>One- through 8-day national outlook for severe storms involving hail, wind or tornados and a national map depicting percentage likelihood of thunderstorm occurrences</blurb>
  <source>NOAA NWS Storm Prediction Center</source> <link>http://www.spc.noaa.gov/products/outlook/</link>  
 <thumb>http://www.spc.noaa.gov/products/exper/enhtstm/imgs/enh_2000.gif?1403802412611</thumb></thumbnail>
-
-<thumbnail><keywords>National Tropical Cyclones (Hurricanes) and Storms</keywords>
-<title>US Climatic Data</title>
-<blurb>Extensive data sets, weather maps/charts, publications, products and more are available through this link</blurb>
- <source>NOAA National Climatic Data Center</source> <link>http://ncdc.noaa.gov/data-access/quick-links</link>  
-<thumb>images/quick.jpg</thumb>
-<thumblink>http://ncdc.noaa.gov/data-access/quick-links</thumblink>
-</thumbnail>
 
 <thumbnail><keywords>National Tropical Cyclones (Hurricanes) and Storms</keywords>
 <title>NCDC Extreme Weather and Climate Events</title>
@@ -533,23 +529,23 @@ Eastern US Coast (with one site each in NB and NS)</blurb>
 <thumblink>http://csc.noaa.gov/hurricanes/</thumblink>
 </thumbnail>
 
-<thumbnail><keywords>National Tropical Cyclones (Hurricanes) and Storms</keywords>
-<title>East Coast Winter Storms: Historical and Analogue Storm Tracks and Surges</title>
-<blurb>Time series plots of historic winter storms in the Northwest Atlantic between 1972 and 2005</blurb>
- <source>Northeast Regional Climate Center</source> <link>http://ecws.eas.cornell.edu/stormtrack.html</link>  
-<thumb>http://ecws.eas.cornell.edu/images/banner.jpg</thumb>
-<thumblink>http://ecws.eas.cornell.edu/stormtrack.html</thumblink>
+
+<thumbnail>
+ <links>
+  <link>
+    <href>http://ncdc.noaa.gov/data-access/quick-links</href> 
+	<display>US Climatic Data</display>
+  </link>
+  <link>
+    <href>http://ecws.eas.cornell.edu/stormtrack.html</href> 
+	<display>East Coast Winter Storms: Historical and Analogue Storm Tracks and Surges</display>
+  </link>
+  <link>
+    <href>http://www.cpc.ncep.noaa.gov/products/hurricane/</href> 
+	<display>US Hurricane Outlook</display>
+  </link>
+ </links>
 </thumbnail>
-
-
-<thumbnail><keywords>National Tropical Cyclones (Hurricanes) and Storms</keywords>
-<title>US Hurricane Outlook</title>
-<blurb>Data sets for 20 variables used to monitor the potential for Atlantic Hurricanes</blurb>
- <source>NOAA NWS Climate Prediction Center</source> <link>http://www.cpc.ncep.noaa.gov/products/hurricane/</link>  
-<thumb>http://www.cpc.ncep.noaa.gov/www_images/hurricane.gif</thumb>
-<thumblink>http://www.cpc.ncep.noaa.gov/products/hurricane/</thumblink>
-</thumbnail>
-
 
 </storms>
 
@@ -610,11 +606,6 @@ Eastern US Coast (with one site each in NB and NS)</blurb>
  </current>
  <forecast>
 
-<thumbnail><keywords> Canada Temperature &amp; Precipitation: Forecasts/Projections/Time Series </keywords>
-<title>Canada Weather Radar—Atlantic Provinces</title>
-<blurb>Real-time precipitation animation (mm/hr) shown for Atlantic region</blurb>
- <source>Government of Canada</source> <link>http://weather.gc.ca/radar/index_e.html?id=ERN</link> 
-<thumb>http://weather.gc.ca/cacheable/images/radar/layers_detailed/composite_cities/atl_composite.gif?ver=1402675003</thumb> </thumbnail>
 
 <thumbnail><keywords> Canada Temperature &amp; Precipitation: Forecasts/Projections/Time Series </keywords>
 <title>Canada Temperature and Precipitation Forecasts</title>
@@ -628,6 +619,17 @@ Eastern US Coast (with one site each in NB and NS)</blurb>
 <blurb>Accumulated precipitation, percent of normal precipitation, difference from normal precipitation, percentile precipitation, dry spell and temperature</blurb>
  <source>Agriculture Canada</source> <link>http://www.agr.gc.ca/DW-GS/current-actuelles.jspx?lang=eng&amp;jsEnabled=true</link> 
  <thumb>http://www5.agr.gc.ca/resources/prod/doc/pfra/maps/nrt/nl_ay_ac_s_e.gif</thumb></thumbnail> 
+ 
+ <thumbnail>
+  <links>
+    <link>
+	  <href>http://weather.gc.ca/cacheable/images/radar/layers_detailed/composite_cities/atl_composite.gif?ver=1402675003</href>
+	  <display>Canada Weather Radar—Atlantic Provinces</display>
+	</link>
+  </links>
+ </thumbnail>
+ 
+ 
  </forecast>
 
  </temperature>
