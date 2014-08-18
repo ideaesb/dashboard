@@ -25,7 +25,7 @@ foreach($thumbnails as $thumbnail)
 ?>
 
 <div class="div-table-col">
-<?php echo $thumbnail->title ?><img src="images/section5/question_mark.png" width="14" height="14" class="question_mark" title="<?php echo $thumbnail->blurb ?>" />
+<?php echo $thumbnail->title ?><!-- img src="images/section5/question_mark.png" width="14" height="14" class="question_mark" title="<?php // echo $thumbnail->blurb ?>" / -->
 <br />
 <?php
   if (isset($thumbnail->thumblink))
@@ -34,7 +34,7 @@ foreach($thumbnails as $thumbnail)
 ?>
 
 <a href="<?php echo $thumbnail->thumblink ?>" target="_blank">
-  <img src="<?php echo $thumbnail->thumb ?>" title="Click to launch web or application" width="170" /></a>
+  <img src="<?php echo $thumbnail->thumb ?>" title="<?php echo $thumbnail->blurb ?>" width="170" /></a>
 
 <?php
   }
@@ -44,7 +44,7 @@ foreach($thumbnails as $thumbnail)
 ?>
 
 <a href="<?php echo $thumbnail->thumb ?>" class="highslide" onclick="return hs.expand(this)">
-		<img src="<?php echo $thumbnail->thumb ?>" title="Click to enlarge" width="170" /></a>
+		<img src="<?php echo $thumbnail->thumb ?>" title="<?php echo $thumbnail->blurb ?>" width="170" /></a>
 <?php
   }  // endif (isset($thumbnail->thumblink))
 ?>

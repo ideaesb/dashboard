@@ -1,0 +1,6 @@
+#AuthType Basic
+#AuthName "Dashboard Not Released to Public Yet"
+#AuthUserFile /home/gulfofme/public_html/dashboard/.htpasswd
+#Require valid-user
+# allows any user to see this directory
+Satisfy Any

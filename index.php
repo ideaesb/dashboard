@@ -186,15 +186,29 @@ $xml = simplexml_load_file('dash.xml');
   
 <div align="center">
 <table width="100%" border="0" cellspacing="2" cellpadding="2">
+  <!--tr>
+    <td width="50%" valign="middle" class="title" style="background-color:#6eac2c;"><h1 align="center"  style="font-size:30px;">Dashboard</h1></td>
+    <td width="50%" valign="middle" class="title" style="background-color:#6eac2c;"><h2 align="center" style="font-size:1.5em;">Recent and Real-Time Data and Resources</h2></td>
+  </tr>  
   <tr>
-    <td width="100%" valign="middle" class="title" style="background-color:#6eac2c"><h1 align="center">Dashboard</h1></td>
+    <td width="100%" valign="middle" class="title" style="background-color:#6eac2c;" colspan="2"><h1 align="center" style="font-size:30px;">Dashboard: Recent and Real-Time Data and Resources</h1></td>
+  </tr>  
+  <tr -->
+    <td width="100%" valign="middle" class="title" style="background-color:#6eac2c"><h1 align="center" style="font-size:30px;">Dashboard</h1><h2 style="font-size:1.5em;"> Recent and Real-Time Data and Resources</h2></td>
   </tr>  
 </table>
 </div>
   
   
   <div id="note">
-  <p class="note-text">Information in the dashboard  is grouped first by climate variable and/or impact and then by time frame.   Click on the &quot;?&quot; button to view the figure caption.  Click on the source URL to go to the site where the figure originated and find additional data and information.</p>
+  <!-- p class="note-text">Information in the dashboard  is grouped first by climate variable and/or impact and then by time frame.   Click on the &quot;?&quot; button to view the figure caption.  Click on the source URL to go to the site where the figure originated and find additional data and information.</p -->
+  
+  <ul style="font-size:larger">
+    <li>Click on each image to enlarge</li>
+    <li>Click on each source URL to reach the original site</li>
+    <li>Scroll over each image for additional information</li>
+  </ul>
+  
  </div>
 
 
@@ -250,7 +264,7 @@ $xml = simplexml_load_file('dash.xml');
           </div><!-- end forecast conditions -->
           
           
-         <h3 id="dashboard8113">Derivate Products</h3>
+         <h3 id="dashboard8113">Derivative Products</h3>
          <div id="dashboard8113_panel1">
 
 
@@ -802,13 +816,11 @@ $xml = simplexml_load_file('dash.xml');
 
  
   
-  
- <h3 id="section6">Regional Partners</h3>
   <div id="panel6" align="center">
     <table width="950" border="0" cellspacing="5" cellpadding="5">
       <tr>
         <td>NOAA/Regional Climate Services/Eastern Region<br />
-          <a href="http://rcsdhome.org/eastern" target="_blank">http://rcsdhome.org/eastern</a></td>
+          <a href="http://www.ncdc.noaa.gov/rcsd/eastern" target="_blank">http://www.ncdc.noaa.gov/rcsd/eastern</a></td>
         <td><img src="images/head_title.png"  /></td>
       </tr>
       <tr>
@@ -827,8 +839,8 @@ $xml = simplexml_load_file('dash.xml');
         <td><img src="images/nroc-logo-90px.png"  /></td>
       </tr -->
     </table>
-  </div>
-
+  </div>  
+ <h3 id="section6">Regional Partners</h3>
   </div> <!-- end of div containing dashboards --> 
   
 
@@ -838,6 +850,7 @@ Contact: Ellen Mecray (<a href="mailto:ellen.l.mecray@noaa.gov">Ellen.L.Mecray@n
 </div>
 
 </div><!--ends container-->
+<?php @require_once($_SERVER['DOCUMENT_ROOT']."/2/wp-content/themes/gulf-of-maine-council-ii/google-analytics.inc.php"); ?>
 </body>
 </html>
 

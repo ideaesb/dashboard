@@ -90,3 +90,9 @@ Stack trace:
 [18-Jul-2014 07:44:29 UTC] PHP Notice:  Trying to get property of non-object in C:\websites\dashboard\dash.php on line 2
 [18-Jul-2014 07:44:29 UTC] PHP Fatal error:  Call to a member function children() on a non-object in C:\websites\dashboard\dash.php on line 2
 [19-Jul-2014 05:20:17 UTC] PHP Parse error:  syntax error, unexpected '$links' (T_VARIABLE), expecting '(' in C:\websites\dashboard\dash.php on line 58
+[25-Jul-2014 19:03:30 UTC] PHP Warning:  simplexml_load_file(): dash.xml:628: parser error : expected '&gt;' in C:\websites\dashboard\index.php on line 55
+[25-Jul-2014 19:03:30 UTC] PHP Warning:  simplexml_load_file(): 	&lt;/links&gt; in C:\websites\dashboard\index.php on line 55
+[25-Jul-2014 19:03:30 UTC] PHP Warning:  simplexml_load_file(): 	      ^ in C:\websites\dashboard\index.php on line 55
+[25-Jul-2014 19:03:30 UTC] PHP Notice:  Trying to get property of non-object in C:\websites\dashboard\dash.php on line 2
+[25-Jul-2014 19:03:30 UTC] PHP Notice:  Trying to get property of non-object in C:\websites\dashboard\dash.php on line 2
+[25-Jul-2014 19:03:30 UTC] PHP Fatal error:  Call to a member function children() on a non-object in C:\websites\dashboard\dash.php on line 2
